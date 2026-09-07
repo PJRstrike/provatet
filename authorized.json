@@ -36,5 +36,19 @@
       "addedBy": "1710456419"
     }
   ],
-  "redeems": []
+  "redeems": [
+    {
+      "code": "KRX-RESS-Z9WEY9GX",
+      "role": "RESS",
+      "maxUses": 100,
+      "uses": 0,
+      "usedBy": [],
+      "createdAt": "2026-09-07T14:01:48.705Z",
+      "createdBy": {
+        "id": "1710456419",
+        "name": "𝙺𝚊𝚒𝚛𝚞𝚡 ⛦ 𝙼𝚊𝚕𝚟𝚘𝚛𝚗𝚜 • 𝙲𝚎𝚕𝚝𝚛𝚊𝙱𝚘𝚢𝚜 ⛦",
+        "username": "@KairuxNoir"
+      }
+    }
+  ]
 }
