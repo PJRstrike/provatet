@@ -7,21 +7,8 @@
     "4290bbfcad42c2b71296f91b1104218672c4022a93aa6213b19230f3c31df8bf",
     "006bdc0a52f71997ce99f9970743b136b051a12781c820f0f93a68ec425df04d",
     "b681ce412b588ad0f94559c1ef29979c72250e0a4a1182a2511afabd31401c04",
-    "6feba85a769cdda0969457822239cf5f508fbf73f50e9946aa17fcabbd1bacc1",
-    "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
+    "6feba85a769cdda0969457822239cf5f508fbf73f50e9946aa17fcabbd1bacc1"
   ],
-  "licenses": [
-    {
-      "hash": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
-      "token": "f5cf8c4224c84ee911915892:19504ced927767ca7156f83b85550ed8:013d134a",
-      "masked": "••••••••",
-      "addedAt": "2026-09-07T12:59:48.292Z",
-      "addedBy": {
-        "id": "1710456419",
-        "name": "𝙺𝚊𝚒𝚛𝚞𝚡 ⛦ 𝙼𝚊𝚕𝚟𝚘𝚛𝚗𝚜 • 𝙲𝚎𝚕𝚝𝚛𝚊𝙱𝚘𝚢𝚜 ⛦",
-        "username": "@KairuxNoir"
-      }
-    }
-  ],
+  "licenses": [],
   "ceos": []
 }
