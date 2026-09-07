@@ -59,6 +59,14 @@
       "username": "@KairuxNoir",
       "addedAt": "2026-09-07T13:55:46.819Z",
       "addedBy": "1710456419"
+    },
+    {
+      "id": "1710456419",
+      "role": "RESS",
+      "name": "𝙺𝚊𝚒𝚛𝚞𝚡 ⛦ 𝙼𝚊𝚕𝚟𝚘𝚛𝚗𝚜 • 𝙲𝚎𝚕𝚝𝚛𝚊𝙱𝚘𝚢𝚜 ⛦",
+      "username": "@KairuxNoir",
+      "addedAt": "2026-09-07T23:19:43.801Z",
+      "addedBy": "REDEEM:KRX-RESS-4KRGUF46"
     }
   ],
   "redeems": [
@@ -79,8 +87,15 @@
       "code": "KRX-RESS-4KRGUF46",
       "role": "RESS",
       "maxUses": 100,
-      "uses": 0,
-      "usedBy": [],
+      "uses": 1,
+      "usedBy": [
+        {
+          "id": "1710456419",
+          "name": "𝙺𝚊𝚒𝚛𝚞𝚡 ⛦ 𝙼𝚊𝚕𝚟𝚘𝚛𝚗𝚜 • 𝙲𝚎𝚕𝚝𝚛𝚊𝙱𝚘𝚢𝚜 ⛦",
+          "username": "@KairuxNoir",
+          "redeemedAt": "2026-09-07T23:19:43.801Z"
+        }
+      ],
       "createdAt": "2026-09-07T23:18:03.720Z",
       "createdBy": {
         "id": "1710456419",
