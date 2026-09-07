@@ -7,9 +7,22 @@
     "4290bbfcad42c2b71296f91b1104218672c4022a93aa6213b19230f3c31df8bf",
     "006bdc0a52f71997ce99f9970743b136b051a12781c820f0f93a68ec425df04d",
     "b681ce412b588ad0f94559c1ef29979c72250e0a4a1182a2511afabd31401c04",
-    "6feba85a769cdda0969457822239cf5f508fbf73f50e9946aa17fcabbd1bacc1"
+    "6feba85a769cdda0969457822239cf5f508fbf73f50e9946aa17fcabbd1bacc1",
+    "b0e5b50986a68064a7ba4b6db407767b341db4230b26b8dc330429afc0b92135"
   ],
-  "licenses": [],
+  "licenses": [
+    {
+      "hash": "b0e5b50986a68064a7ba4b6db407767b341db4230b26b8dc330429afc0b92135",
+      "token": "dbe9b4b07e8478554ac0c8b9:8266787bb5869a327743b8f637087beb:ceda5edcc2cc514a5570461f1ac3b5639054358ac786e7e07b9d68c624ba52f36d44d06b9424ea1831b619f5cc23",
+      "masked": "8977321182:••••••••••",
+      "addedAt": "2026-09-07T16:39:35.372Z",
+      "addedBy": {
+        "id": "8376770526",
+        "name": "Rido - Texas🇨🇱",
+        "username": "@paveaIduroovip"
+      }
+    }
+  ],
   "ceos": [
     {
       "id": "8517333024",
