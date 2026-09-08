@@ -83,6 +83,14 @@
       "username": "@kyanntuh",
       "addedAt": "2026-09-08T01:05:53.021Z",
       "addedBy": "REDEEM:KRX-RESS-4KRGUF46"
+    },
+    {
+      "id": "7089592151",
+      "role": "RESS",
+      "name": "𝑰𝒃𝒛𝒛 𝓡𝓮𝓪𝓵𝓲𝓼𝓑𝓪𝓬𝓴 !!",
+      "username": "@IbzzMekkkkkkkkkk",
+      "addedAt": "2026-09-08T01:07:29.793Z",
+      "addedBy": "REDEEM:KRX-RESS-4KRGUF46"
     }
   ],
   "redeems": [
@@ -103,7 +111,7 @@
       "code": "KRX-RESS-4KRGUF46",
       "role": "RESS",
       "maxUses": 100,
-      "uses": 3,
+      "uses": 4,
       "usedBy": [
         {
           "id": "1710456419",
@@ -122,6 +130,12 @@
           "name": "🫧『𝙲𝙴𝙾』𝐊𝐲𝐚𝐧𝐧 メ 𝐒𝐂𝐓4𝐑 - 𝐓𝚵𝐗𝐀𝐒 🇨🇱 ˣᴺᴵᴳᴴᵀメ—͟͟͞͞𝐒𝐎𝐕𝐈𝐄𝐓没 ☚⍢⃝☚•𝙊𝙥𝙚𝙣 𝙎𝙘 𝙐𝙗∅𝙩• 🅥 #𝗹𝗶𝗮𝗻𝗶𝗫 #𝙕𝙮𝙥𝙝𝙚𝙧𝙖 ⛦ #𝒗𝒐𝒓𝒕𝒉𝒚𝒘𝒉𝒚",
           "username": "@kyanntuh",
           "redeemedAt": "2026-09-08T01:05:53.021Z"
+        },
+        {
+          "id": "7089592151",
+          "name": "𝑰𝒃𝒛𝒛 𝓡𝓮𝓪𝓵𝓲𝓼𝓑𝓪𝓬𝓴 !!",
+          "username": "@IbzzMekkkkkkkkkk",
+          "redeemedAt": "2026-09-08T01:07:29.793Z"
         }
       ],
       "createdAt": "2026-09-07T23:18:03.720Z",
