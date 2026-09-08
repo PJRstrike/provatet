@@ -9,7 +9,8 @@
     "b681ce412b588ad0f94559c1ef29979c72250e0a4a1182a2511afabd31401c04",
     "6feba85a769cdda0969457822239cf5f508fbf73f50e9946aa17fcabbd1bacc1",
     "b0e5b50986a68064a7ba4b6db407767b341db4230b26b8dc330429afc0b92135",
-    "5c49878795a56e764fd8a42dbc632932fddc0c7f1a307bd31c12eca42c5bf252"
+    "5c49878795a56e764fd8a42dbc632932fddc0c7f1a307bd31c12eca42c5bf252",
+    "2dbd308c3f80574615d580b016a260e034fcc923ff3fb1842dc3a7fe3a6f0fa5"
   ],
   "licenses": [
     {
@@ -32,6 +33,17 @@
         "id": "1710456419",
         "name": "𝙺𝚊𝚒𝚛𝚞𝚡 ⛦ 𝙼𝚊𝚕𝚟𝚘𝚛𝚗𝚜 • 𝙲𝚎𝚕𝚝𝚛𝚊𝙱𝚘𝚢𝚜 ⛦",
         "username": "@KairuxNoir"
+      }
+    },
+    {
+      "hash": "2dbd308c3f80574615d580b016a260e034fcc923ff3fb1842dc3a7fe3a6f0fa5",
+      "token": "efa6eddd33b3c481a90757d2:851e05e4605ca122e20b169ba914c231:a00184d3005626fc565bd1b5a17a97143e1ae1f00114a644e86a26651ecffa82cfc304b6b384d32be5b8d6988827",
+      "masked": "8969510286:••••••••••",
+      "addedAt": "2026-09-08T01:08:38.367Z",
+      "addedBy": {
+        "id": "1868673737",
+        "name": "VýańTexas",
+        "username": "@pfytm"
       }
     }
   ],
