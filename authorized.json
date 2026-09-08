@@ -91,6 +91,14 @@
       "username": "@IbzzMekkkkkkkkkk",
       "addedAt": "2026-09-08T01:07:29.793Z",
       "addedBy": "REDEEM:KRX-RESS-4KRGUF46"
+    },
+    {
+      "id": "1868673737",
+      "role": "RESS",
+      "name": "VýańTexas",
+      "username": "@pfytm",
+      "addedAt": "2026-09-08T01:08:03.802Z",
+      "addedBy": "REDEEM:KRX-RESS-4KRGUF46"
     }
   ],
   "redeems": [
@@ -111,7 +119,7 @@
       "code": "KRX-RESS-4KRGUF46",
       "role": "RESS",
       "maxUses": 100,
-      "uses": 4,
+      "uses": 5,
       "usedBy": [
         {
           "id": "1710456419",
@@ -136,6 +144,12 @@
           "name": "𝑰𝒃𝒛𝒛 𝓡𝓮𝓪𝓵𝓲𝓼𝓑𝓪𝓬𝓴 !!",
           "username": "@IbzzMekkkkkkkkkk",
           "redeemedAt": "2026-09-08T01:07:29.793Z"
+        },
+        {
+          "id": "1868673737",
+          "name": "VýańTexas",
+          "username": "@pfytm",
+          "redeemedAt": "2026-09-08T01:08:03.802Z"
         }
       ],
       "createdAt": "2026-09-07T23:18:03.720Z",
