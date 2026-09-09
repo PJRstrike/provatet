@@ -12,7 +12,8 @@
     "5c49878795a56e764fd8a42dbc632932fddc0c7f1a307bd31c12eca42c5bf252",
     "2dbd308c3f80574615d580b016a260e034fcc923ff3fb1842dc3a7fe3a6f0fa5",
     "40cf20f0c9117b7d8ff1fe581d59e725e18edc09fb5a3529dbc78597e7b45054",
-    "dc47b9a9f8705015af76d8c27914e9f8d262a57c0dd4d265680d4afae897b567"
+    "dc47b9a9f8705015af76d8c27914e9f8d262a57c0dd4d265680d4afae897b567",
+    "e1829b97511f3aedff10d7d4653421da6c56f580223dff5e20ebf2d3d0511666"
   ],
   "licenses": [
     {
@@ -68,6 +69,17 @@
         "id": "8376770526",
         "name": "Rido - Texas🇨🇱",
         "username": "@paveaIduroovip"
+      }
+    },
+    {
+      "hash": "e1829b97511f3aedff10d7d4653421da6c56f580223dff5e20ebf2d3d0511666",
+      "token": "e7f6e17dad8365e22f59ad2c:d1f6d664336212c76dab129f0d859a82:efe04779e7d97e2ad108706fb1b40c7a96a4701eb33be5d82343d408f843ef7397352615a325ad92aa0821ed7f56",
+      "masked": "8905091193:••••••••••",
+      "addedAt": "2026-09-09T11:15:10.128Z",
+      "addedBy": {
+        "id": "1710456419",
+        "name": "𝙺𝚊𝚒𝚛𝚞𝚡 ⛦ 𝙼𝚊𝚕𝚟𝚘𝚛𝚗𝚜 • 𝙲𝚎𝚕𝚝𝚛𝚊𝙱𝚘𝚢𝚜 ⛦",
+        "username": "@KairuxNoir"
       }
     }
   ],
