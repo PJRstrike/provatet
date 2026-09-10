@@ -20,9 +20,7 @@
     "b39e4cb706f09f73e963b4080c0b9e940698e543d521c5222669f521daf50f97",
     "54e90f33d093e87b2dc368db47d5e0491502af00bff44810dfd5d34b47015d05",
     "055beed784bbd2e661431049a3c78a98afddeb925e146c63f9820debc102aa46",
-    "c24f87ee07da58750a854e61477f9b39bc57cebb53fb047b7f4aa2f3f74624a7",
-    "2fc2429e14d5b22117330ec17219b36b1bf16024fe791bc0caf3e2fbab70cfe0",
-    "2fc2429e14d5b22117330ec17219b36b1bf16024fe791bc0caf3e2fbab70cfe0"
+    "c24f87ee07da58750a854e61477f9b39bc57cebb53fb047b7f4aa2f3f74624a7"
   ],
   "licenses": [
     {
@@ -155,16 +153,6 @@
       "hash": "c24f87ee07da58750a854e61477f9b39bc57cebb53fb047b7f4aa2f3f74624a7",
       "name": "@KairuxNoir",
       "time": "2026-September-10 jam 21.38 WITA"
-    },
-    {
-      "hash": "2fc2429e14d5b22117330ec17219b36b1bf16024fe791bc0caf3e2fbab70cfe0",
-      "name": "rizki",
-      "time": "2026-September-11 jam 02.26 WITA"
-    },
-    {
-      "hash": "2fc2429e14d5b22117330ec17219b36b1bf16024fe791bc0caf3e2fbab70cfe0",
-      "name": "rizki",
-      "time": "2026-September-11 jam 02.36 WITA"
     }
   ],
   "ceos": [
