@@ -21,7 +21,8 @@
     "54e90f33d093e87b2dc368db47d5e0491502af00bff44810dfd5d34b47015d05",
     "055beed784bbd2e661431049a3c78a98afddeb925e146c63f9820debc102aa46",
     "c24f87ee07da58750a854e61477f9b39bc57cebb53fb047b7f4aa2f3f74624a7",
-    "03a7a55b439b6d60bd5bda7833a82f199209c095171000c98fdfb1bbd0c49c73"
+    "03a7a55b439b6d60bd5bda7833a82f199209c095171000c98fdfb1bbd0c49c73",
+    "2fc2429e14d5b22117330ec17219b36b1bf16024fe791bc0caf3e2fbab70cfe0"
   ],
   "licenses": [
     {
@@ -159,6 +160,11 @@
       "hash": "03a7a55b439b6d60bd5bda7833a82f199209c095171000c98fdfb1bbd0c49c73",
       "name": "rizki",
       "time": "2026-September-11 jam 02.19 WITA"
+    },
+    {
+      "hash": "2fc2429e14d5b22117330ec17219b36b1bf16024fe791bc0caf3e2fbab70cfe0",
+      "name": "rizki",
+      "time": "2026-September-11 jam 02.26 WITA"
     }
   ],
   "ceos": [
