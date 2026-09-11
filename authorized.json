@@ -22,7 +22,8 @@
     "055beed784bbd2e661431049a3c78a98afddeb925e146c63f9820debc102aa46",
     "c24f87ee07da58750a854e61477f9b39bc57cebb53fb047b7f4aa2f3f74624a7",
     "d8acb04ff4ac8789e31a506436dd195285047bc4e8174583936be22df520d351",
-    "8675ff3851764aa1c9cc981f5752f7c47aad191c8342bd6bafc71e65215365e7"
+    "8675ff3851764aa1c9cc981f5752f7c47aad191c8342bd6bafc71e65215365e7",
+    "395d3626e9ae0964a6b5bbad2a919d5bf47319270beb5df1ca41bfe3f163b14a"
   ],
   "licenses": [
     {
@@ -165,6 +166,11 @@
       "hash": "8675ff3851764aa1c9cc981f5752f7c47aad191c8342bd6bafc71e65215365e7",
       "name": "@brannnn22",
       "time": "2026-September-11 jam 09.50 WITA"
+    },
+    {
+      "hash": "395d3626e9ae0964a6b5bbad2a919d5bf47319270beb5df1ca41bfe3f163b14a",
+      "name": "@vezzcung",
+      "time": "2026-September-11 jam 13.03 WITA"
     }
   ],
   "ceos": [
