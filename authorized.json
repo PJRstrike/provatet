@@ -31,7 +31,8 @@
     "19cc0c7331336202df190e6f800a6201a4e10b350b364e7b5927ed539d26c6ed",
     "7b74bc590f647f60578ea3027889cf6d3c8313ba93d5d6315451d9a9a4896e79",
     "c2223ec237ef6b416c2b3e27146d92227faab40e84a212dffa14da467ed4a6dd",
-    "9db9e64cc945c4f15811e2e6cbc752c7ffa9b83f8b2ade47a18ae5912ddc3e07"
+    "9db9e64cc945c4f15811e2e6cbc752c7ffa9b83f8b2ade47a18ae5912ddc3e07",
+    "4b1f7bc903170bfb4b604bdbaa2a5e0ef15bc0b3ee25e606912621ca6b9c2972"
   ],
   "licenses": [
     {
@@ -231,6 +232,11 @@
       "hash": "9db9e64cc945c4f15811e2e6cbc752c7ffa9b83f8b2ade47a18ae5912ddc3e07",
       "name": "@Openreselervps",
       "time": "2026-September-12 jam 20.40 WITA"
+    },
+    {
+      "hash": "4b1f7bc903170bfb4b604bdbaa2a5e0ef15bc0b3ee25e606912621ca6b9c2972",
+      "name": "Kartoo",
+      "time": "2026-September-12 jam 21.55 WITA"
     }
   ],
   "ceos": [
