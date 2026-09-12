@@ -30,7 +30,8 @@
     "b31e21402774544944751b8ee4738c386f069683bd6cf01ca2f1aae9e930eca7",
     "19cc0c7331336202df190e6f800a6201a4e10b350b364e7b5927ed539d26c6ed",
     "7b74bc590f647f60578ea3027889cf6d3c8313ba93d5d6315451d9a9a4896e79",
-    "c2223ec237ef6b416c2b3e27146d92227faab40e84a212dffa14da467ed4a6dd"
+    "c2223ec237ef6b416c2b3e27146d92227faab40e84a212dffa14da467ed4a6dd",
+    "9db9e64cc945c4f15811e2e6cbc752c7ffa9b83f8b2ade47a18ae5912ddc3e07"
   ],
   "licenses": [
     {
@@ -225,6 +226,11 @@
       "hash": "c2223ec237ef6b416c2b3e27146d92227faab40e84a212dffa14da467ed4a6dd",
       "name": "@kyysdctive",
       "time": "2026-September-12 jam 19.10 WITA"
+    },
+    {
+      "hash": "9db9e64cc945c4f15811e2e6cbc752c7ffa9b83f8b2ade47a18ae5912ddc3e07",
+      "name": "@Openreselervps",
+      "time": "2026-September-12 jam 20.40 WITA"
     }
   ],
   "ceos": [
