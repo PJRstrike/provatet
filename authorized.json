@@ -36,7 +36,8 @@
     "780ff6636cd2b188806e71ea652b14bf262aa7aa4e5a9a9eb7ae76dee6c79c02",
     "60d17519e25dd5d8b56fe0a9b5cffad597bf0f769b866380a3bb4b4038699667",
     "280f20fff861d4e85e32d5900b1bd59e1f26feffe6c68eda976442674fb26908",
-    "66a370448ecaa4dbd163684a7856ba3851601464af95b703e6432ff65c1380c8"
+    "66a370448ecaa4dbd163684a7856ba3851601464af95b703e6432ff65c1380c8",
+    "ee2e0a96c0fcee27016e5ad8a4359ac9adcfb19dde8094274d68eb74cf30d072"
   ],
   "licenses": [
     {
@@ -261,6 +262,17 @@
       "hash": "66a370448ecaa4dbd163684a7856ba3851601464af95b703e6432ff65c1380c8",
       "name": "@yanofficiall",
       "time": "2026-September-13 jam 18.17 WITA"
+    },
+    {
+      "hash": "ee2e0a96c0fcee27016e5ad8a4359ac9adcfb19dde8094274d68eb74cf30d072",
+      "token": "849f35b899b480b9e3349c4e:864d6270ba2be1943c10fe0bdc685259:86c04392a129763a0427dc5e5516763293f0d43fc3196fa1645f9d87edfdb9326cfcaa4a9638dd5ce2014fdf5e84",
+      "masked": "8739113742:••••••••••",
+      "addedAt": "2026-09-14T15:59:23.247Z",
+      "addedBy": {
+        "id": "7089592151",
+        "name": "𝑰𝒃𝒛𝒛 𝓡𝓮𝓪𝓵𝓲𝓼𝓑𝓪𝓬𝓴 !!",
+        "username": "@IbzzMekkkkkkkkkk"
+      }
     }
   ],
   "ceos": [
