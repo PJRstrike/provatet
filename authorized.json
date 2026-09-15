@@ -38,7 +38,8 @@
     "280f20fff861d4e85e32d5900b1bd59e1f26feffe6c68eda976442674fb26908",
     "66a370448ecaa4dbd163684a7856ba3851601464af95b703e6432ff65c1380c8",
     "ee2e0a96c0fcee27016e5ad8a4359ac9adcfb19dde8094274d68eb74cf30d072",
-    "1734a7d5cfa6b357b4078c29e81264b0e37087f67aaebc2cb76e7cb2abf14eed"
+    "1734a7d5cfa6b357b4078c29e81264b0e37087f67aaebc2cb76e7cb2abf14eed",
+    "96d41cb963a5af7ee945851cbb18c6b4cb38cd09e0e5e8c1accd14a0e57d4ef7"
   ],
   "licenses": [
     {
@@ -279,6 +280,17 @@
       "hash": "1734a7d5cfa6b357b4078c29e81264b0e37087f67aaebc2cb76e7cb2abf14eed",
       "name": "@ddrwisy1",
       "time": "2026-September-15 jam 08.57 WITA"
+    },
+    {
+      "hash": "96d41cb963a5af7ee945851cbb18c6b4cb38cd09e0e5e8c1accd14a0e57d4ef7",
+      "token": "4fec31c63c9d0c9ea0e7eb06:c39048497986ffd464bb77e9193308b9:a203b05f2a7c0e8c7bbf811826d57d34ce96d460a77d769bcf36f89a8e29e85b5a57138e448ef71ad17436aaf812",
+      "masked": "8683682854:••••••••••",
+      "addedAt": "2026-09-15T07:55:37.544Z",
+      "addedBy": {
+        "id": "209460357",
+        "name": "pensi selamanya",
+        "username": "@Ferxzofficial210"
+      }
     }
   ],
   "ceos": [
