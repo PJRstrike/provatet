@@ -41,7 +41,8 @@
     "1734a7d5cfa6b357b4078c29e81264b0e37087f67aaebc2cb76e7cb2abf14eed",
     "96d41cb963a5af7ee945851cbb18c6b4cb38cd09e0e5e8c1accd14a0e57d4ef7",
     "6d50a76a1f97380232629e53a59e8ec56e7574ae980e710922a98ae46fb432fd",
-    "c6d3995e06b5b00c5519d2499e7a629db4d958d742ae4249fd5f99790413b8c0"
+    "c6d3995e06b5b00c5519d2499e7a629db4d958d742ae4249fd5f99790413b8c0",
+    "bef555c17059bab5aa96c9bdc0afe6c6b4f1ae71afe9165f81f73c008e9119d3"
   ],
   "licenses": [
     {
@@ -309,6 +310,17 @@
       "hash": "c6d3995e06b5b00c5519d2499e7a629db4d958d742ae4249fd5f99790413b8c0",
       "name": "@tanzzshiiki",
       "time": "2026-September-15 jam 20.51 WITA"
+    },
+    {
+      "hash": "bef555c17059bab5aa96c9bdc0afe6c6b4f1ae71afe9165f81f73c008e9119d3",
+      "token": "63d5456884a2a06000a31dfd:2a1235166ba870b8fe4cefa21f986f91:bb5a07b8419e6e8cba90f60ad5b3203fb6e53be3552c9b24bfa0b202cbb0bbb50897df36e99b26743a201773dada",
+      "masked": "8801406041:••••••••••",
+      "addedAt": "2026-09-15T14:37:06.677Z",
+      "addedBy": {
+        "id": "8786888416",
+        "name": "⸸ 𝒙𝒗𝒂𝒏̌𝒆𝒔𝒄𝒕 𝗸𝘆𝘇𝗲𝗲 𝒇𝒐𝒓2𝒕 ♤ LIMPER",
+        "username": "-"
+      }
     }
   ],
   "ceos": [
