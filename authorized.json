@@ -39,7 +39,8 @@
     "66a370448ecaa4dbd163684a7856ba3851601464af95b703e6432ff65c1380c8",
     "ee2e0a96c0fcee27016e5ad8a4359ac9adcfb19dde8094274d68eb74cf30d072",
     "1734a7d5cfa6b357b4078c29e81264b0e37087f67aaebc2cb76e7cb2abf14eed",
-    "96d41cb963a5af7ee945851cbb18c6b4cb38cd09e0e5e8c1accd14a0e57d4ef7"
+    "96d41cb963a5af7ee945851cbb18c6b4cb38cd09e0e5e8c1accd14a0e57d4ef7",
+    "6d50a76a1f97380232629e53a59e8ec56e7574ae980e710922a98ae46fb432fd"
   ],
   "licenses": [
     {
@@ -290,6 +291,17 @@
         "id": "209460357",
         "name": "pensi selamanya",
         "username": "@Ferxzofficial210"
+      }
+    },
+    {
+      "hash": "6d50a76a1f97380232629e53a59e8ec56e7574ae980e710922a98ae46fb432fd",
+      "token": "5b04c1019119c4cc9a5c9e25:543ea4dd35576cd005d5aebc0ca10c85:4b07b76337b0de3a24137ca3bb076a8ddf78ad9942a4397d910ad4b1d680bd37521f93ac1bf7c7290200948d88aa",
+      "masked": "8994749785:••••••••••",
+      "addedAt": "2026-09-15T11:03:23.509Z",
+      "addedBy": {
+        "id": "5698275355",
+        "name": "ᯓ𝙆𝙞𝙣𝙜𝙏𝙪𝙧𝙠𝙞𝙨𝙝",
+        "username": "@TurkishhReal"
       }
     }
   ],
