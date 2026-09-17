@@ -45,7 +45,8 @@
     "bef555c17059bab5aa96c9bdc0afe6c6b4f1ae71afe9165f81f73c008e9119d3",
     "693e13fd292c3061a4a4f9e50f24b2f2917b15780332d6c769cf153ad63800a6",
     "81532e1aef5bca067dc48de8994ef666e213d8f1568f975fc4a366dc37be17d8",
-    "243ecf332b5ca34624b0deb26f93a5def67650b8d393e8357c6f6b43a7c5bc58"
+    "243ecf332b5ca34624b0deb26f93a5def67650b8d393e8357c6f6b43a7c5bc58",
+    "a52bc160be7d4e69ba777182bb1871e3ec3f6820b9a80849c127d4dbeba6d921"
   ],
   "licenses": [
     {
@@ -350,6 +351,17 @@
         "id": "8517333024",
         "name": "©—͟͞͞𝐏𝐮ͫ𝐭𝐳͟⍣𝐄𝐱𝐜͠𝐚𝐧𝐧ͫ𝐨͟𝐫 𝑬𝑿𝑻𝑰𝑪 ™℡",
         "username": "@putzExcn"
+      }
+    },
+    {
+      "hash": "a52bc160be7d4e69ba777182bb1871e3ec3f6820b9a80849c127d4dbeba6d921",
+      "token": "d9483826e56fad90bfc8fa3e:c967d5cf058b834d96ab566f753818db:4cf6e607843d5fa9d3ca9f7bb54a392d3fb3df1d3582de318127b8e89b0b96e8ee33f7b8395c27939e0033613bc9",
+      "masked": "8716665648:••••••••••",
+      "addedAt": "2026-09-17T23:57:55.719Z",
+      "addedBy": {
+        "id": "7994130791",
+        "name": "𝐁𝐑𝐀𝐍𝐍 𝐃𝐈𝐆𝐈𝐓𝐀𝐋 𝐇𝐔𝐁",
+        "username": "@brannnn22"
       }
     }
   ],
