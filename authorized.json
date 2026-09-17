@@ -44,7 +44,8 @@
     "c6d3995e06b5b00c5519d2499e7a629db4d958d742ae4249fd5f99790413b8c0",
     "bef555c17059bab5aa96c9bdc0afe6c6b4f1ae71afe9165f81f73c008e9119d3",
     "693e13fd292c3061a4a4f9e50f24b2f2917b15780332d6c769cf153ad63800a6",
-    "81532e1aef5bca067dc48de8994ef666e213d8f1568f975fc4a366dc37be17d8"
+    "81532e1aef5bca067dc48de8994ef666e213d8f1568f975fc4a366dc37be17d8",
+    "243ecf332b5ca34624b0deb26f93a5def67650b8d393e8357c6f6b43a7c5bc58"
   ],
   "licenses": [
     {
@@ -339,6 +340,17 @@
       "hash": "81532e1aef5bca067dc48de8994ef666e213d8f1568f975fc4a366dc37be17d8",
       "name": "𝖆𝖝𝖊𝖑 𝑽𝒆𝒔𝒑𝒆𝒓𝒎𝒐𝒖𝒓𝒏𝒆 𓂀",
       "time": "2026-September-16 jam 23.05 WITA"
+    },
+    {
+      "hash": "243ecf332b5ca34624b0deb26f93a5def67650b8d393e8357c6f6b43a7c5bc58",
+      "token": "8ac2dc2e9081c6e0b3857464:02f1f29708696963686f0fe02fc5ff5f:1d6cb304ea3b3b72b96b25c26cc3378b87b4eee1b07f329eef05176ac4436f5155d376a7936055f18a33374169cd",
+      "masked": "8789210871:••••••••••",
+      "addedAt": "2026-09-17T08:00:30.778Z",
+      "addedBy": {
+        "id": "8517333024",
+        "name": "©—͟͞͞𝐏𝐮ͫ𝐭𝐳͟⍣𝐄𝐱𝐜͠𝐚𝐧𝐧ͫ𝐨͟𝐫 𝑬𝑿𝑻𝑰𝑪 ™℡",
+        "username": "@putzExcn"
+      }
     }
   ],
   "ceos": [
