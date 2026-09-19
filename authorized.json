@@ -49,7 +49,8 @@
     "a52bc160be7d4e69ba777182bb1871e3ec3f6820b9a80849c127d4dbeba6d921",
     "66ff792b3e0d9a7eb3bc4ff0cfbe5c9f710563fba0a915ce781156dd06a1e89c",
     "741d3552d9d5eb077a487abd0dc6b4570df032157b66381d57800c5dc816aaeb",
-    "72b0a565becf0baf97fa1ab8d80d956758c903f1816ffba20520cc995f905c08"
+    "72b0a565becf0baf97fa1ab8d80d956758c903f1816ffba20520cc995f905c08",
+    "8091c47b72dc9564b5b052c9bc7719fb0ed61a30883fcdb9449e512e44666d28"
   ],
   "licenses": [
     {
@@ -381,6 +382,17 @@
       "hash": "72b0a565becf0baf97fa1ab8d80d956758c903f1816ffba20520cc995f905c08",
       "name": "@REAL_KAEL",
       "time": "2026-September-19 jam 09.53 WITA"
+    },
+    {
+      "hash": "8091c47b72dc9564b5b052c9bc7719fb0ed61a30883fcdb9449e512e44666d28",
+      "token": "1f44e8557a10e768872ff009:5696b1390a74b9931b20cfd272c17994:6d45e805d587f3327da1691e29ca7032046125cacb420ba43cb3c84058e4bd8c4705eb1281e46857b0278186e6a4",
+      "masked": "8399591596:••••••••••",
+      "addedAt": "2026-09-19T07:27:18.935Z",
+      "addedBy": {
+        "id": "8988746444",
+        "name": "—Zaxcvywz",
+        "username": "@zaxcmd"
+      }
     }
   ],
   "ceos": [
