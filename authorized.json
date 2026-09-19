@@ -50,7 +50,8 @@
     "66ff792b3e0d9a7eb3bc4ff0cfbe5c9f710563fba0a915ce781156dd06a1e89c",
     "741d3552d9d5eb077a487abd0dc6b4570df032157b66381d57800c5dc816aaeb",
     "72b0a565becf0baf97fa1ab8d80d956758c903f1816ffba20520cc995f905c08",
-    "8091c47b72dc9564b5b052c9bc7719fb0ed61a30883fcdb9449e512e44666d28"
+    "8091c47b72dc9564b5b052c9bc7719fb0ed61a30883fcdb9449e512e44666d28",
+    "ab11874be5cc95404869aaa6afa28a009442e6a0a3353d79dd9c5beda1d2a8de"
   ],
   "licenses": [
     {
@@ -392,6 +393,17 @@
         "id": "8988746444",
         "name": "—Zaxcvywz",
         "username": "@zaxcmd"
+      }
+    },
+    {
+      "hash": "ab11874be5cc95404869aaa6afa28a009442e6a0a3353d79dd9c5beda1d2a8de",
+      "token": "5a431018b49bdd7d74d0c9f8:c3b5e6fbf0fa74426536fbcc2e3b8d3e:744569cbd28d7961da4a1f7d38219505a5ea06024d10db2b1a4c2285e2f93927e9237080ee928822bf01392c3f0b",
+      "masked": "8297535708:••••••••••",
+      "addedAt": "2026-09-19T23:41:09.670Z",
+      "addedBy": {
+        "id": "8859497242",
+        "name": "- 𝚁𝚒𝚍𝚣𝚣 𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕",
+        "username": "@Ridzz013"
       }
     }
   ],
