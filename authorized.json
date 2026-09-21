@@ -55,7 +55,8 @@
     "7c562dd55595337babd4b7ac4735fd0ee9dbe437fe8b9f6c1382b926818b9879",
     "4ad2606ce124fa86ea34bef15d296380fd65361cd0b57c813fb9a066f10a86cb",
     "b88f6ecbb60fd324d0de4c3921889bcaaf4c98c036c95efbc7bc72f72be6f27a",
-    "01b03da5135d40e4354ce26fee601d51a33fac008559af97a6ab96760eb98aa5"
+    "01b03da5135d40e4354ce26fee601d51a33fac008559af97a6ab96760eb98aa5",
+    "aeee914a0b8c215d3fae4532edabadb45114408622c54873860faf955e5bebde"
   ],
   "licenses": [
     {
@@ -441,6 +442,17 @@
       "hash": "01b03da5135d40e4354ce26fee601d51a33fac008559af97a6ab96760eb98aa5",
       "name": "@ciussc",
       "time": "2026-September-20 jam 12.38 WITA"
+    },
+    {
+      "hash": "aeee914a0b8c215d3fae4532edabadb45114408622c54873860faf955e5bebde",
+      "token": "dcf8ceea102b79a01d1aa85b:167e685542d6da0e2e9d9982c380b96f:42456a87036833734fefa8851a61ec88afe5c52a85759a396362f6d5621d28ed1a2ad56b4e9d7b967bd4b6c7fa50",
+      "masked": "8862416463:••••••••••",
+      "addedAt": "2026-09-21T06:45:46.497Z",
+      "addedBy": {
+        "id": "7089592151",
+        "name": "𝑰𝒃𝒛𝒛 𝓡𝓮𝓪𝓵𝓲𝓼𝓑𝓪𝓬𝓴 !!",
+        "username": "@IbzzMekkkkkkkkkk"
+      }
     }
   ],
   "ceos": [
