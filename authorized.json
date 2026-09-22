@@ -60,7 +60,8 @@
     "515fb2c6e0810ccc8058e052738c9fde436bad32b4750a38036fbc0a44c07034",
     "ad1a01ad41656f64e887d7689aa96f130c234a249fadb4681e520a8a0e082b07",
     "317e5bd374693125a7b65bfc4eb41e644550b5b8ec635963d84351aae95d69c1",
-    "9f9ce4f692af5a8be5d585415ee293e0b17ad80876f7597ba853c6ab15fe9be8"
+    "9f9ce4f692af5a8be5d585415ee293e0b17ad80876f7597ba853c6ab15fe9be8",
+    "ec12ee2a09a757a4c6147bddb1caba23a9849941610e49b5abaa7120dc212e38"
   ],
   "licenses": [
     {
@@ -477,6 +478,17 @@
       "hash": "9f9ce4f692af5a8be5d585415ee293e0b17ad80876f7597ba853c6ab15fe9be8",
       "name": "@It1ngsszComeBack",
       "time": "2026-September-21 jam 21.25 WITA"
+    },
+    {
+      "hash": "ec12ee2a09a757a4c6147bddb1caba23a9849941610e49b5abaa7120dc212e38",
+      "token": "46d10216ce5750e33343a50a:b08a0bda2d6eae977ebd13943d883876:19195eb17ec8b7de765dab2ec02b565f19cbc7ce52f8daf4ffec90308d9e7637810692b150b4e3a9d2c551c78fb8",
+      "masked": "8972906374:••••••••••",
+      "addedAt": "2026-09-22T14:31:49.210Z",
+      "addedBy": {
+        "id": "1458955929",
+        "name": "⏤͟͟͞𝐗𝐲𝐫𝐨 ᥫ᭡",
+        "username": "-"
+      }
     }
   ],
   "ceos": [
