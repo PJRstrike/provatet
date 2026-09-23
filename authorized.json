@@ -63,7 +63,8 @@
     "ec12ee2a09a757a4c6147bddb1caba23a9849941610e49b5abaa7120dc212e38",
     "7039d10436a1c3f36f504b2fd003813d20c58d5334313fef0a84f25ecf1fc54b",
     "0e775d80a8c15a75bad8ad870f42679f9f89d32c8376eaa9db926c07967a2650",
-    "e4897ae9c55180e1f6d6684b4f52842369c4fe1b5b38de4a6caa20f831328833"
+    "e4897ae9c55180e1f6d6684b4f52842369c4fe1b5b38de4a6caa20f831328833",
+    "bef555c17059bab5aa96c9bdc0afe6c6b4f1ae71afe9165f81f73c008e9119d3"
   ],
   "licenses": [
     {
@@ -507,6 +508,17 @@
       "hash": "e4897ae9c55180e1f6d6684b4f52842369c4fe1b5b38de4a6caa20f831328833",
       "name": "@Raszxshop1",
       "time": "2026-September-23 jam 18.00 WITA"
+    },
+    {
+      "hash": "bef555c17059bab5aa96c9bdc0afe6c6b4f1ae71afe9165f81f73c008e9119d3",
+      "token": "f38d834d33bad23cde2dd104:756f2ce5ba13d6e106409aba592198bb:051e792b4b9caa210e546e47f183940e3268a249c35599a2aab0fbeb6367987d4a82b4f3f155c62f9af2e673c4aa",
+      "masked": "8801406041:••••••••••",
+      "addedAt": "2026-09-23T14:08:19.539Z",
+      "addedBy": {
+        "id": "8786888416",
+        "name": "⸸ 𝒙𝒗𝒂𝒏̌𝒆𝒔𝒄𝒕 𝗸𝘆𝘇𝗲𝗲 𝒇𝒐𝒓2𝒕 ♤ LIMPER",
+        "username": "-"
+      }
     }
   ],
   "ceos": [
