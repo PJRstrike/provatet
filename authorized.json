@@ -69,7 +69,8 @@
     "5fa27b8be968439325d505bf835d8ac0a3d2836eb1d9eb961be6bdcc67839c2c",
     "80ecfeef4374fec4d406afb1a364a7aa7a8cd1d2d30197b95a6559ad1540d856",
     "e9e9f42a677b050bb80a17e0279df2b580a1d38006685a80c9438656cf95d070",
-    "32c0588e9bed563d62249c15f37c2d7d36f9e7a72f809fdc778b611685e3258a"
+    "32c0588e9bed563d62249c15f37c2d7d36f9e7a72f809fdc778b611685e3258a",
+    "989592d2f00e08c08084d1fedab931ff1c7dd78f328de28ea7482e3bceac246c"
   ],
   "licenses": [
     {
@@ -561,6 +562,17 @@
       "hash": "32c0588e9bed563d62249c15f37c2d7d36f9e7a72f809fdc778b611685e3258a",
       "name": "@Raszxshop1",
       "time": "2026-September-25 jam 18.18 WITA"
+    },
+    {
+      "hash": "989592d2f00e08c08084d1fedab931ff1c7dd78f328de28ea7482e3bceac246c",
+      "token": "a6827634229f07db8d857f97:4170b99e1e26e36594f90db1aa203a38:4f4d40690672bb6f28485c0fc836a1c3b6d22c808459bcb2c3634a36e5e2876dee4c48cdae5cd0c62250b87d2e27",
+      "masked": "8678976712:••••••••••",
+      "addedAt": "2026-09-25T10:49:56.729Z",
+      "addedBy": {
+        "id": "8881868128",
+        "name": "𝗠𝗔𝗛𝗜𝗔 𝗩𝗘𝗟𝗤𝗨𝗔𝗥𝗔 𝗥𝗘𝗔𝗗𝗬 𝗩𝗣𝗦 𝗗𝗢",
+        "username": "-"
+      }
     }
   ],
   "ceos": [
