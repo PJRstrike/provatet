@@ -68,7 +68,8 @@
     "44be7fb09e343119e0f119d7b09521245f6fa47e9624aed84475c46630f99cfd",
     "5fa27b8be968439325d505bf835d8ac0a3d2836eb1d9eb961be6bdcc67839c2c",
     "80ecfeef4374fec4d406afb1a364a7aa7a8cd1d2d30197b95a6559ad1540d856",
-    "e9e9f42a677b050bb80a17e0279df2b580a1d38006685a80c9438656cf95d070"
+    "e9e9f42a677b050bb80a17e0279df2b580a1d38006685a80c9438656cf95d070",
+    "32c0588e9bed563d62249c15f37c2d7d36f9e7a72f809fdc778b611685e3258a"
   ],
   "licenses": [
     {
@@ -555,6 +556,11 @@
       "hash": "e9e9f42a677b050bb80a17e0279df2b580a1d38006685a80c9438656cf95d070",
       "name": "@clickwoik",
       "time": "2026-September-25 jam 13.42 WITA"
+    },
+    {
+      "hash": "32c0588e9bed563d62249c15f37c2d7d36f9e7a72f809fdc778b611685e3258a",
+      "name": "@Raszxshop1",
+      "time": "2026-September-25 jam 18.18 WITA"
     }
   ],
   "ceos": [
