@@ -77,7 +77,8 @@
     "8179866521993741b61ba7ad5fca49dc048a198fcdcaed35b0db3a2862543898",
     "17746404b4dd37b60ee7fddc3b4b2303b40cc6b8efe723818b5b901eb6b9e861",
     "118a429d4bcbdce6bb28994b21b44e6bd45c1784327bda2b6a9aad7bfd903023",
-    "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d"
+    "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d",
+    "46fe969b12867f6d4883497ce0cfa8027c51cb79633d25a323e3283615c75e41"
   ],
   "licenses": [
     {
@@ -632,6 +633,17 @@
         "id": "1432185518",
         "name": "𝙺𝙰𝙸𝚁𝚄𝚇 — 𝙽𝙾𝚃 𝙳𝙴𝚅",
         "username": "@KairuxNoir"
+      }
+    },
+    {
+      "hash": "46fe969b12867f6d4883497ce0cfa8027c51cb79633d25a323e3283615c75e41",
+      "token": "4c94552f3937e3a3eaac0fdb:e1181479a392ec0fad71c95875e5a034:2ebcd24795aad7e3098e5905ab3b1133bf6e2a74e8fe55bc3dae978a72c5d73a9a272ef1c9120e6a383892182076",
+      "masked": "8699678187:••••••••••",
+      "addedAt": "2026-09-26T15:44:30.160Z",
+      "addedBy": {
+        "id": "467725247",
+        "name": "ᯓ𝐑𝐲𝐮™",
+        "username": "@Ryu_142"
       }
     }
   ],
