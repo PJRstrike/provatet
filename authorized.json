@@ -78,7 +78,8 @@
     "17746404b4dd37b60ee7fddc3b4b2303b40cc6b8efe723818b5b901eb6b9e861",
     "118a429d4bcbdce6bb28994b21b44e6bd45c1784327bda2b6a9aad7bfd903023",
     "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d",
-    "46fe969b12867f6d4883497ce0cfa8027c51cb79633d25a323e3283615c75e41"
+    "46fe969b12867f6d4883497ce0cfa8027c51cb79633d25a323e3283615c75e41",
+    "ada65214bdf24ad538a5d07c728d9f4671bd8237f5118a39c21e65faa16836a8"
   ],
   "licenses": [
     {
@@ -645,6 +646,11 @@
         "name": "ᯓ𝐑𝐲𝐮™",
         "username": "@Ryu_142"
       }
+    },
+    {
+      "hash": "ada65214bdf24ad538a5d07c728d9f4671bd8237f5118a39c21e65faa16836a8",
+      "name": "@Rimuru093",
+      "time": "2026-September-26 jam 23.52 WITA"
     }
   ],
   "ceos": [
