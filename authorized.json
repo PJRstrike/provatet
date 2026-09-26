@@ -80,7 +80,8 @@
     "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d",
     "46fe969b12867f6d4883497ce0cfa8027c51cb79633d25a323e3283615c75e41",
     "ada65214bdf24ad538a5d07c728d9f4671bd8237f5118a39c21e65faa16836a8",
-    "5a99c80da0e8e17331b84fb8bc78d9faec454fd91f550cd12a14e1f9f36f357e"
+    "5a99c80da0e8e17331b84fb8bc78d9faec454fd91f550cd12a14e1f9f36f357e",
+    "f00152644d92ef01c2d1b65dd94c6594ba30b2e2b4cb3b2ebc0f06411be432a5"
   ],
   "licenses": [
     {
@@ -662,6 +663,17 @@
         "id": "8881868128",
         "name": "𝗠𝗔𝗛𝗜𝗔 𝗩𝗘𝗟𝗤𝗨𝗔𝗥𝗔 𝗥𝗘𝗔𝗗𝗬 𝗩𝗣𝗦 𝗗𝗢",
         "username": "-"
+      }
+    },
+    {
+      "hash": "f00152644d92ef01c2d1b65dd94c6594ba30b2e2b4cb3b2ebc0f06411be432a5",
+      "token": "0f044294fef2e579b6ce5ba3:1c532f6f4365077e42b12e6e7e51cc33:e2324896dc9b7191a8b9f5aea2350b8a1de9ec91ae4d16e77dd97b5adcfb14ba90ede7cdd7e2bfe8a1eef61a110c",
+      "masked": "8987942048:••••••••••",
+      "addedAt": "2026-09-26T19:42:21.751Z",
+      "addedBy": {
+        "id": "8669758627",
+        "name": "⸸𝚡𝚟𝚊𝚗𝚎𝚜𝚌𝚝 Ḳḕṿǐǹ pentoll | 𝖑𝖔𝖔𝖐𝖘𝖎𝖒",
+        "username": "@vinxzaj"
       }
     }
   ],
