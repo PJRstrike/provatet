@@ -74,7 +74,8 @@
     "5bbd3e4871e93cbd2f0c40be57bbf2670c0170dd2779aad4112b7a2a6efd50d4",
     "d574f1b4bf926fb0e437052fd4f34a3801855848cccba97845ad6abd141c6b19",
     "fb5cae830cd2550431e65c2ae0bbb0a22759889cbfcc5acdf4b25f9b9c41f288",
-    "8179866521993741b61ba7ad5fca49dc048a198fcdcaed35b0db3a2862543898"
+    "8179866521993741b61ba7ad5fca49dc048a198fcdcaed35b0db3a2862543898",
+    "a74b5b5a7e7d9f6cb142f6ae592593505c6977e9f4bd83c5398f9509c2c5c0de"
   ],
   "licenses": [
     {
@@ -608,6 +609,17 @@
         "id": "8988746444",
         "name": "źáxć #vӳẃź",
         "username": "@zaxcxx"
+      }
+    },
+    {
+      "hash": "a74b5b5a7e7d9f6cb142f6ae592593505c6977e9f4bd83c5398f9509c2c5c0de",
+      "token": "5046efaa68624c46a52874c0:5fbe75c06e4d39fdf1129637fc17a448:97e2672054",
+      "masked": "••••••••",
+      "addedAt": "2026-09-26T08:37:35.637Z",
+      "addedBy": {
+        "id": "1351501483",
+        "name": "Khusus Promosi",
+        "username": "@Kceeeppp"
       }
     }
   ],
