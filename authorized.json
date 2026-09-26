@@ -73,7 +73,8 @@
     "989592d2f00e08c08084d1fedab931ff1c7dd78f328de28ea7482e3bceac246c",
     "5bbd3e4871e93cbd2f0c40be57bbf2670c0170dd2779aad4112b7a2a6efd50d4",
     "d574f1b4bf926fb0e437052fd4f34a3801855848cccba97845ad6abd141c6b19",
-    "fb5cae830cd2550431e65c2ae0bbb0a22759889cbfcc5acdf4b25f9b9c41f288"
+    "fb5cae830cd2550431e65c2ae0bbb0a22759889cbfcc5acdf4b25f9b9c41f288",
+    "8179866521993741b61ba7ad5fca49dc048a198fcdcaed35b0db3a2862543898"
   ],
   "licenses": [
     {
@@ -597,6 +598,17 @@
       "hash": "fb5cae830cd2550431e65c2ae0bbb0a22759889cbfcc5acdf4b25f9b9c41f288",
       "name": "𝔗𝔯 Tuan lexxʳᵛˣ 𝘼𝙁",
       "time": "2026-September-26 jam 10.25 WITA"
+    },
+    {
+      "hash": "8179866521993741b61ba7ad5fca49dc048a198fcdcaed35b0db3a2862543898",
+      "token": "96da19cc9651db1a6483a928:cdb3744e5b1089c3ad26390318fcdc59:d163b51a6ab47a9d07b2b054477b4864e1fe99e2aa6739691b3198d3e145e4ffe86a38303715fc7f69d455109280",
+      "masked": "8957841808:••••••••••",
+      "addedAt": "2026-09-26T07:33:30.098Z",
+      "addedBy": {
+        "id": "8988746444",
+        "name": "źáxć #vӳẃź",
+        "username": "@zaxcxx"
+      }
     }
   ],
   "ceos": [
