@@ -79,7 +79,8 @@
     "118a429d4bcbdce6bb28994b21b44e6bd45c1784327bda2b6a9aad7bfd903023",
     "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d",
     "46fe969b12867f6d4883497ce0cfa8027c51cb79633d25a323e3283615c75e41",
-    "ada65214bdf24ad538a5d07c728d9f4671bd8237f5118a39c21e65faa16836a8"
+    "ada65214bdf24ad538a5d07c728d9f4671bd8237f5118a39c21e65faa16836a8",
+    "5a99c80da0e8e17331b84fb8bc78d9faec454fd91f550cd12a14e1f9f36f357e"
   ],
   "licenses": [
     {
@@ -651,6 +652,17 @@
       "hash": "ada65214bdf24ad538a5d07c728d9f4671bd8237f5118a39c21e65faa16836a8",
       "name": "@Rimuru093",
       "time": "2026-September-26 jam 23.52 WITA"
+    },
+    {
+      "hash": "5a99c80da0e8e17331b84fb8bc78d9faec454fd91f550cd12a14e1f9f36f357e",
+      "token": "f82058548867c61e70dfb3ad:fe9f88343cb4f238873c7b21b1bade25:afc6a6703f55a2fa2c83e93c6baf665a16b61e38a9a0ad9b61422f49030445a1cdde6dad665a2ae85f487c0d9275",
+      "masked": "8989155208:••••••••••",
+      "addedAt": "2026-09-26T16:22:25.294Z",
+      "addedBy": {
+        "id": "8881868128",
+        "name": "𝗠𝗔𝗛𝗜𝗔 𝗩𝗘𝗟𝗤𝗨𝗔𝗥𝗔 𝗥𝗘𝗔𝗗𝗬 𝗩𝗣𝗦 𝗗𝗢",
+        "username": "-"
+      }
     }
   ],
   "ceos": [
