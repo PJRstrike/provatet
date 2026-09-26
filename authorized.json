@@ -71,7 +71,8 @@
     "e9e9f42a677b050bb80a17e0279df2b580a1d38006685a80c9438656cf95d070",
     "32c0588e9bed563d62249c15f37c2d7d36f9e7a72f809fdc778b611685e3258a",
     "989592d2f00e08c08084d1fedab931ff1c7dd78f328de28ea7482e3bceac246c",
-    "5bbd3e4871e93cbd2f0c40be57bbf2670c0170dd2779aad4112b7a2a6efd50d4"
+    "5bbd3e4871e93cbd2f0c40be57bbf2670c0170dd2779aad4112b7a2a6efd50d4",
+    "d574f1b4bf926fb0e437052fd4f34a3801855848cccba97845ad6abd141c6b19"
   ],
   "licenses": [
     {
@@ -579,6 +580,17 @@
       "hash": "5bbd3e4871e93cbd2f0c40be57bbf2670c0170dd2779aad4112b7a2a6efd50d4",
       "name": "𝔗𝔯 Tuan lexxʳᵛˣ 𝘼𝙁",
       "time": "2026-September-25 jam 22.55 WITA"
+    },
+    {
+      "hash": "d574f1b4bf926fb0e437052fd4f34a3801855848cccba97845ad6abd141c6b19",
+      "token": "d6735703e98f6454fb8e3960:aaf35198fdf027f890bc5dc24f08ed63:79046cd66acb68150ca23c0acbb6736ef2d409a2e98836ec75eb12ee434c64631dccc4e1244ad68d447f8850aaf6",
+      "masked": "8911256492:••••••••••",
+      "addedAt": "2026-09-26T02:22:02.898Z",
+      "addedBy": {
+        "id": "8786888416",
+        "name": "⸸ 𝒙𝒗𝒂𝒏̌𝒆𝒔𝒄𝒕 𝗸𝘆𝘇𝗲𝗲 𝒇𝒐𝒓2𝒕 ♤ LIMPER",
+        "username": "-"
+      }
     }
   ],
   "ceos": [
