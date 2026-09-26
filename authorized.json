@@ -75,8 +75,7 @@
     "d574f1b4bf926fb0e437052fd4f34a3801855848cccba97845ad6abd141c6b19",
     "fb5cae830cd2550431e65c2ae0bbb0a22759889cbfcc5acdf4b25f9b9c41f288",
     "8179866521993741b61ba7ad5fca49dc048a198fcdcaed35b0db3a2862543898",
-    "a74b5b5a7e7d9f6cb142f6ae592593505c6977e9f4bd83c5398f9509c2c5c0de",
-    "13375d73c956a5ecf959469dad3724c800d28e03254138c78bc1bd3fb134370b"
+    "a74b5b5a7e7d9f6cb142f6ae592593505c6977e9f4bd83c5398f9509c2c5c0de"
   ],
   "licenses": [
     {
@@ -617,17 +616,6 @@
       "token": "5046efaa68624c46a52874c0:5fbe75c06e4d39fdf1129637fc17a448:97e2672054",
       "masked": "••••••••",
       "addedAt": "2026-09-26T08:37:35.637Z",
-      "addedBy": {
-        "id": "1351501483",
-        "name": "Khusus Promosi",
-        "username": "@Kceeeppp"
-      }
-    },
-    {
-      "hash": "13375d73c956a5ecf959469dad3724c800d28e03254138c78bc1bd3fb134370b",
-      "token": "de9e06668d432b252e20e5d0:e9a12854c7b6dfb2fc2c26a39a8c0b0f:f8a1",
-      "masked": "••••••••",
-      "addedAt": "2026-09-26T08:37:47.298Z",
       "addedBy": {
         "id": "1351501483",
         "name": "Khusus Promosi",
