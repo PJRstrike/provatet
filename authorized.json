@@ -75,7 +75,8 @@
     "d574f1b4bf926fb0e437052fd4f34a3801855848cccba97845ad6abd141c6b19",
     "fb5cae830cd2550431e65c2ae0bbb0a22759889cbfcc5acdf4b25f9b9c41f288",
     "8179866521993741b61ba7ad5fca49dc048a198fcdcaed35b0db3a2862543898",
-    "17746404b4dd37b60ee7fddc3b4b2303b40cc6b8efe723818b5b901eb6b9e861"
+    "17746404b4dd37b60ee7fddc3b4b2303b40cc6b8efe723818b5b901eb6b9e861",
+    "118a429d4bcbdce6bb28994b21b44e6bd45c1784327bda2b6a9aad7bfd903023"
   ],
   "licenses": [
     {
@@ -615,6 +616,11 @@
       "hash": "17746404b4dd37b60ee7fddc3b4b2303b40cc6b8efe723818b5b901eb6b9e861",
       "name": "@Raszxshop1",
       "time": "2026-September-26 jam 17.10 WITA"
+    },
+    {
+      "hash": "118a429d4bcbdce6bb28994b21b44e6bd45c1784327bda2b6a9aad7bfd903023",
+      "name": "@LUTFI_STORE2",
+      "time": "2026-September-26 jam 17.11 WITA"
     }
   ],
   "ceos": [
