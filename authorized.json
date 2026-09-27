@@ -81,7 +81,8 @@
     "46fe969b12867f6d4883497ce0cfa8027c51cb79633d25a323e3283615c75e41",
     "ada65214bdf24ad538a5d07c728d9f4671bd8237f5118a39c21e65faa16836a8",
     "5a99c80da0e8e17331b84fb8bc78d9faec454fd91f550cd12a14e1f9f36f357e",
-    "f00152644d92ef01c2d1b65dd94c6594ba30b2e2b4cb3b2ebc0f06411be432a5"
+    "f00152644d92ef01c2d1b65dd94c6594ba30b2e2b4cb3b2ebc0f06411be432a5",
+    "81abb444fa5c5909918d3cc05aa8c15cfbf0b9ead372640b56c705b166afcc7c"
   ],
   "licenses": [
     {
@@ -675,6 +676,11 @@
         "name": "⸸𝚡𝚟𝚊𝚗𝚎𝚜𝚌𝚝 Ḳḕṿǐǹ pentoll | 𝖑𝖔𝖔𝖐𝖘𝖎𝖒",
         "username": "@vinxzaj"
       }
+    },
+    {
+      "hash": "81abb444fa5c5909918d3cc05aa8c15cfbf0b9ead372640b56c705b166afcc7c",
+      "name": "@Yuzuki_io",
+      "time": "2026-September-27 jam 11.45 WITA"
     }
   ],
   "ceos": [
