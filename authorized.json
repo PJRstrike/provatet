@@ -84,7 +84,8 @@
     "f00152644d92ef01c2d1b65dd94c6594ba30b2e2b4cb3b2ebc0f06411be432a5",
     "81abb444fa5c5909918d3cc05aa8c15cfbf0b9ead372640b56c705b166afcc7c",
     "bc3de93ed934709d1bea3ad26707c4e6810cd8ce64707b63f6f015b5aa9c2148",
-    "32fdc3d5dbcf1fb64d18cc00ece3b0d70fd285e9920c3f285bce4336e45ad6cb"
+    "32fdc3d5dbcf1fb64d18cc00ece3b0d70fd285e9920c3f285bce4336e45ad6cb",
+    "572d7cbe68aa4d34cdc4c6e3a43de7225a122369a2d3d0c70fe8ecf19a042868"
   ],
   "licenses": [
     {
@@ -694,6 +695,17 @@
       "token": "5bd9b4d148ac6124dd668689:a1a20509052828452374e2534629c7a5:24e3d0ff307ac255a06829095ad7fdf1934db0ba5e010c9c020e3e3ea53548fdecfdf6aa14c4ab78c713f201b50a",
       "masked": "8738107384:••••••••••",
       "addedAt": "2026-09-27T07:33:21.906Z",
+      "addedBy": {
+        "id": "1458955929",
+        "name": "⏤͟͟͞𝐗𝐲𝐫𝐨 ᥫ᭡",
+        "username": "@xyrouwow"
+      }
+    },
+    {
+      "hash": "572d7cbe68aa4d34cdc4c6e3a43de7225a122369a2d3d0c70fe8ecf19a042868",
+      "token": "85e5a31efc30fd78acb102ca:86db09d042f07daccc3bc69333f6af7d:32199a85ded4031feb50871333412c282d888cab4ddf7da67ac0327940af4990d8e194b016ad6739cc90d7f656f0",
+      "masked": "8654750720:••••••••••",
+      "addedAt": "2026-09-27T08:32:18.208Z",
       "addedBy": {
         "id": "1458955929",
         "name": "⏤͟͟͞𝐗𝐲𝐫𝐨 ᥫ᭡",
