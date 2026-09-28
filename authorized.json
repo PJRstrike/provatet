@@ -92,7 +92,6 @@
     "17315d2c6c2cfa23fb47106cf02d95e87c971e9dae39199b2dd364beaf7a9536",
     "98bc89d30ae0f125a5bbc050be08ce92733a12c96ef60d0aba16f01bcfde330e",
     "33d256efb2989b2880b5dcc18a74bdd7744290655221617211232eb5c5767b34",
-    "e9cd9846fb0376bf7953b8b6f10af2c2b4d305a7cd092651337fe3ad1b930673",
     "b3f2139f5d314e4b806dfe2ab12131df204d36f0df399c6dfb3a8e0dcb9db5ed"
   ],
   "licenses": [
@@ -784,17 +783,6 @@
         "id": "1432185518",
         "name": "𝙺𝙰𝙸𝚁𝚄𝚇 — 𝙽𝙾𝚃 𝙳𝙴𝚅",
         "username": "@KairuxNoir"
-      }
-    },
-    {
-      "hash": "e9cd9846fb0376bf7953b8b6f10af2c2b4d305a7cd092651337fe3ad1b930673",
-      "token": "e5a711a32794f721eecaa35e:7a46d74df2c5bbac9724d3c06798451f:caa580d44cc6afd383eef844000e9be0d95607a732ccd6fddcd336df940fd93d06488e8bb0a6df80a4c5ed1785a7",
-      "masked": "8866704573:••••••••••",
-      "addedAt": "2026-09-28T09:54:07.999Z",
-      "addedBy": {
-        "id": "8900910162",
-        "name": "DIKAA 🥱☕",
-        "username": "@DikaaStore"
       }
     },
     {
