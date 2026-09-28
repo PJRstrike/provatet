@@ -92,7 +92,8 @@
     "17315d2c6c2cfa23fb47106cf02d95e87c971e9dae39199b2dd364beaf7a9536",
     "98bc89d30ae0f125a5bbc050be08ce92733a12c96ef60d0aba16f01bcfde330e",
     "33d256efb2989b2880b5dcc18a74bdd7744290655221617211232eb5c5767b34",
-    "e9cd9846fb0376bf7953b8b6f10af2c2b4d305a7cd092651337fe3ad1b930673"
+    "e9cd9846fb0376bf7953b8b6f10af2c2b4d305a7cd092651337fe3ad1b930673",
+    "b3f2139f5d314e4b806dfe2ab12131df204d36f0df399c6dfb3a8e0dcb9db5ed"
   ],
   "licenses": [
     {
@@ -794,6 +795,17 @@
         "id": "8900910162",
         "name": "DIKAA 🥱☕",
         "username": "@DikaaStore"
+      }
+    },
+    {
+      "hash": "b3f2139f5d314e4b806dfe2ab12131df204d36f0df399c6dfb3a8e0dcb9db5ed",
+      "token": "94286a12a89bbacbde3e2f66:cf9d99fdcdff0df919c605ac85a897ce:9277986444af8c24ed550503fa0cdeb23bef364085d8510ae2727f795d717ac8cea98a3a08db10d6c024681c8e1e",
+      "masked": "8943405815:••••••••••",
+      "addedAt": "2026-09-28T10:20:25.757Z",
+      "addedBy": {
+        "id": "8419143999",
+        "name": "vezzcoopys¡ 𝙽𝙸𝙻𝙴𝙽𝚃𝚂𝙸𝚇 ܔܢܜܔ",
+        "username": "@vezzcung"
       }
     }
   ],
