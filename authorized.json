@@ -77,7 +77,6 @@
     "8179866521993741b61ba7ad5fca49dc048a198fcdcaed35b0db3a2862543898",
     "17746404b4dd37b60ee7fddc3b4b2303b40cc6b8efe723818b5b901eb6b9e861",
     "118a429d4bcbdce6bb28994b21b44e6bd45c1784327bda2b6a9aad7bfd903023",
-    "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d",
     "46fe969b12867f6d4883497ce0cfa8027c51cb79633d25a323e3283615c75e41",
     "ada65214bdf24ad538a5d07c728d9f4671bd8237f5118a39c21e65faa16836a8",
     "5a99c80da0e8e17331b84fb8bc78d9faec454fd91f550cd12a14e1f9f36f357e",
@@ -633,17 +632,6 @@
       "hash": "118a429d4bcbdce6bb28994b21b44e6bd45c1784327bda2b6a9aad7bfd903023",
       "name": "@LUTFI_STORE2",
       "time": "2026-September-26 jam 17.11 WITA"
-    },
-    {
-      "hash": "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d",
-      "token": "4d4039d0bd23382bc6de3ed0:be8b873221b2f616a4886e0f02fa0244:44485cfcdf431bd37a952617914c519aaf433f6ece206cd2549542d3d9f91db5faa8f11f8e4b393f99f8133b7dfb",
-      "masked": "8702691224:••••••••••",
-      "addedAt": "2026-09-26T15:29:44.924Z",
-      "addedBy": {
-        "id": "1432185518",
-        "name": "𝙺𝙰𝙸𝚁𝚄𝚇 — 𝙽𝙾𝚃 𝙳𝙴𝚅",
-        "username": "@KairuxNoir"
-      }
     },
     {
       "hash": "46fe969b12867f6d4883497ce0cfa8027c51cb79633d25a323e3283615c75e41",
