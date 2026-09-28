@@ -91,7 +91,6 @@
     "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d",
     "17315d2c6c2cfa23fb47106cf02d95e87c971e9dae39199b2dd364beaf7a9536",
     "98bc89d30ae0f125a5bbc050be08ce92733a12c96ef60d0aba16f01bcfde330e",
-    "33d256efb2989b2880b5dcc18a74bdd7744290655221617211232eb5c5767b34",
     "b3f2139f5d314e4b806dfe2ab12131df204d36f0df399c6dfb3a8e0dcb9db5ed",
     "a9712b4fa2eb1e30122136d876ddb5dfda6e091ee68180988d8ebfbd8d76e102",
     "1567830817dd95614992ad164d56341d2656158328fbde70c3d54108bc3f9612"
@@ -774,17 +773,6 @@
         "id": "8981900981",
         "name": "Sedi",
         "username": "@Openreselervps"
-      }
-    },
-    {
-      "hash": "33d256efb2989b2880b5dcc18a74bdd7744290655221617211232eb5c5767b34",
-      "token": "05b84eb9a77e5230c0e56774:2cb399aee45ad014b4e7907e3745c324:4bb696d8ce2996bc327091d829519b665047395b66446fbfd9da5916055f8ffbd4582fcea0f0aa7f43443efa21a6",
-      "masked": "8789779177:••••••••••",
-      "addedAt": "2026-09-28T07:37:26.458Z",
-      "addedBy": {
-        "id": "1432185518",
-        "name": "𝙺𝙰𝙸𝚁𝚄𝚇 — 𝙽𝙾𝚃 𝙳𝙴𝚅",
-        "username": "@KairuxNoir"
       }
     },
     {
