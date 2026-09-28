@@ -89,7 +89,8 @@
     "5cfcbfd3d6c3fa1aa68fe0980bb51e877d4cc171fc932589b5b090283dce92fb",
     "93414f8966c1f97172a2d01cbd4d5c475e9486d6b8b3c6a103ee54f71af655e8",
     "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d",
-    "17315d2c6c2cfa23fb47106cf02d95e87c971e9dae39199b2dd364beaf7a9536"
+    "17315d2c6c2cfa23fb47106cf02d95e87c971e9dae39199b2dd364beaf7a9536",
+    "98bc89d30ae0f125a5bbc050be08ce92733a12c96ef60d0aba16f01bcfde330e"
   ],
   "licenses": [
     {
@@ -754,6 +755,17 @@
       "token": "f8b96d9fab0cd3c96b62455e:a7ce86809261e5c235454ddda5ee576d:4bf541b6565eb5570697aea0cbab9a3a8d32306b4d7bdb114c848941766d335e4cc9fc2207a963db108f7114eef1",
       "masked": "8224688334:••••••••••",
       "addedAt": "2026-09-28T03:28:10.261Z",
+      "addedBy": {
+        "id": "8981900981",
+        "name": "Sedi",
+        "username": "@Openreselervps"
+      }
+    },
+    {
+      "hash": "98bc89d30ae0f125a5bbc050be08ce92733a12c96ef60d0aba16f01bcfde330e",
+      "token": "a799a25357503e46dd3ce746:a5b1ff7fafa451b5267a8c4b8333c1f0:50614cfb0c1ba361a54ae63d765a6546b50ceb87043c4e69bddd6e23aa50b4879b2e1cc567b59b93b037afa2aae6",
+      "masked": "8913582088:••••••••••",
+      "addedAt": "2026-09-28T03:48:18.522Z",
       "addedBy": {
         "id": "8981900981",
         "name": "Sedi",
