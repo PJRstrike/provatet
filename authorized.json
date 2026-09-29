@@ -93,7 +93,8 @@
     "98bc89d30ae0f125a5bbc050be08ce92733a12c96ef60d0aba16f01bcfde330e",
     "b3f2139f5d314e4b806dfe2ab12131df204d36f0df399c6dfb3a8e0dcb9db5ed",
     "a9712b4fa2eb1e30122136d876ddb5dfda6e091ee68180988d8ebfbd8d76e102",
-    "1567830817dd95614992ad164d56341d2656158328fbde70c3d54108bc3f9612"
+    "1567830817dd95614992ad164d56341d2656158328fbde70c3d54108bc3f9612",
+    "d3e6f7e2390e63c51f75df2aa302352de1d095fd40bb3202facc267324e86129"
   ],
   "licenses": [
     {
@@ -801,6 +802,11 @@
       "hash": "1567830817dd95614992ad164d56341d2656158328fbde70c3d54108bc3f9612",
       "name": "@KeyyssOfficial",
       "time": "2026-September-28 jam 20.55 WITA"
+    },
+    {
+      "hash": "d3e6f7e2390e63c51f75df2aa302352de1d095fd40bb3202facc267324e86129",
+      "name": "@KairuxNoir",
+      "time": "2026-September-29 jam 12.02 WITA"
     }
   ],
   "ceos": [
