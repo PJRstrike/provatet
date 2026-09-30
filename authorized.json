@@ -57,7 +57,8 @@
     "395d3626e9ae0964a6b5bbad2a919d5bf47319270beb5df1ca41bfe3f163b14a",
     "df74feae165821c4e88ba36af436586b1984820ada108aa5bc99033bf0154200",
     "e9e9f42a677b050bb80a17e0279df2b580a1d38006685a80c9438656cf95d070",
-    "fe3037d8ed5c460178057e2b46813082125e952069355164c495eeef46c3fc75"
+    "fe3037d8ed5c460178057e2b46813082125e952069355164c495eeef46c3fc75",
+    "4b1f7bc903170bfb4b604bdbaa2a5e0ef15bc0b3ee25e606912621ca6b9c2972"
   ],
   "licenses": [
     {
@@ -692,6 +693,17 @@
       "token": "068b590e0831f4c939aa2adc:47bddd091079c2d42ea60b606a4d96d5:202f4aee9d9eb712e7797e99284d9623380a7567c0f4bf63413d2c922d574a3e770d2f478cfbb74fe2c5043e96c2",
       "masked": "8665702669:••••••••••",
       "addedAt": "2026-09-30T13:13:24.788Z",
+      "addedBy": {
+        "id": "8636002157",
+        "name": "⏤͟͟͞͞𝙏𝙍𝘾 제 𝐂𝐒 𝙎𝙃𝙄𝙉𝙊𝘼 𝐌𝐀𝐑𝐊𝐄𝐓 #𝐕𝐚𝐥𝐮𝐞𝐝",
+        "username": "@Rimuru093"
+      }
+    },
+    {
+      "hash": "4b1f7bc903170bfb4b604bdbaa2a5e0ef15bc0b3ee25e606912621ca6b9c2972",
+      "token": "a5ca6e430dfd0bbf79199f0a:0d370d5d245760358ebbf33b811681e1:c3bfc10f69dd4d589add5d19af4a6dbe1ff2f789d5145b92fc23b560e629d89ca0650ff347f43ffe9ec9b27aa8f4",
+      "masked": "8234935391:••••••••••",
+      "addedAt": "2026-09-30T15:13:25.143Z",
       "addedBy": {
         "id": "8636002157",
         "name": "⏤͟͟͞͞𝙏𝙍𝘾 제 𝐂𝐒 𝙎𝙃𝙄𝙉𝙊𝘼 𝐌𝐀𝐑𝐊𝐄𝐓 #𝐕𝐚𝐥𝐮𝐞𝐝",
