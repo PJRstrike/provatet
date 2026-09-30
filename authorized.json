@@ -52,7 +52,8 @@
     "741d3552d9d5eb077a487abd0dc6b4570df032157b66381d57800c5dc816aaeb",
     "c6d3995e06b5b00c5519d2499e7a629db4d958d742ae4249fd5f99790413b8c0",
     "ad1a01ad41656f64e887d7689aa96f130c234a249fadb4681e520a8a0e082b07",
-    "9db9e64cc945c4f15811e2e6cbc752c7ffa9b83f8b2ade47a18ae5912ddc3e07"
+    "9db9e64cc945c4f15811e2e6cbc752c7ffa9b83f8b2ade47a18ae5912ddc3e07",
+    "32c0588e9bed563d62249c15f37c2d7d36f9e7a72f809fdc778b611685e3258a"
   ],
   "licenses": [
     {
@@ -636,6 +637,17 @@
         "id": "8981900981",
         "name": "Resi",
         "username": "@Openreselervps"
+      }
+    },
+    {
+      "hash": "32c0588e9bed563d62249c15f37c2d7d36f9e7a72f809fdc778b611685e3258a",
+      "token": "81e50b7ca20e7d5d56ff7e41:872a1afafce85267f92ec6d2216d16f9:90613548212980faa6cf71b05b45a2c5603874bbae41daabd133cecd06950d97e60fe77500b3dd2df5a521b58d32",
+      "masked": "8970457346:••••••••••",
+      "addedAt": "2026-09-30T11:34:06.723Z",
+      "addedBy": {
+        "id": "1588680154",
+        "name": "Support Monzo Banking 𝗦𝗲𝗿𝘃𝗶𝗰𝗲",
+        "username": "@MonzoSupportBank745"
       }
     }
   ],
