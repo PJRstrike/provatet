@@ -50,7 +50,8 @@
     "d07ec69af884e4be4fb52c35a93336a610dcb72922c354a998a29af2420a61a9",
     "db5630078e5c1d929688c665e4898f1b3a7bde96d40a8ed9baee5713b4657021",
     "741d3552d9d5eb077a487abd0dc6b4570df032157b66381d57800c5dc816aaeb",
-    "c6d3995e06b5b00c5519d2499e7a629db4d958d742ae4249fd5f99790413b8c0"
+    "c6d3995e06b5b00c5519d2499e7a629db4d958d742ae4249fd5f99790413b8c0",
+    "ad1a01ad41656f64e887d7689aa96f130c234a249fadb4681e520a8a0e082b07"
   ],
   "licenses": [
     {
@@ -608,6 +609,17 @@
       "token": "f5db639ef438361ee922b24b:aac40035cd6b80d1066e151252d10c00:8f1bf2b8fb8ea2dd99c72d771f34a3f293cf4391f8eab9c4312a53b1e840d7e2ab12a3160c9420b641ade4a6d357",
       "masked": "8964914745:••••••••••",
       "addedAt": "2026-09-30T07:15:45.482Z",
+      "addedBy": {
+        "id": "8102755411",
+        "name": "𝘾𝙎 '𝙏𝙖𝙣𝙯𝙯𝙨𝙝𝙞𝙞𝙠𝙞'",
+        "username": "@tanzzshiiki"
+      }
+    },
+    {
+      "hash": "ad1a01ad41656f64e887d7689aa96f130c234a249fadb4681e520a8a0e082b07",
+      "token": "3bcb6367183281e55aae3b83:e8e79e8965e156f3e1319170857239fc:d34f0a906751de5eaa7838401c3aee910c5924a495d49aca09936e9743051978e1e7cb62afc179c01515ca828466",
+      "masked": "8864290567:••••••••••",
+      "addedAt": "2026-09-30T07:20:36.333Z",
       "addedBy": {
         "id": "8102755411",
         "name": "𝘾𝙎 '𝙏𝙖𝙣𝙯𝙯𝙨𝙝𝙞𝙞𝙠𝙞'",
