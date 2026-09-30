@@ -1,9 +1,1 @@
-# paste JSON yang kamu kasih → Ctrl+O Enter → Ctrl+X 3. Encode base64
-CONTENT=$(base64 -w0 authorized.json)
-# 4. Push ke GitHub
-curl -X PUT \ -H "Authorization: token $GITHUB_TOKEN" \ -H "Accept: 
-  application/vnd.github+json" \ 
-  "https://api.github.com/repos/$GITHUB_OWNER/$GITHUB_REPO/contents/$GITHUB_PATH" 
-  \
-  -d "{\"message\":\"update authorized.json\",\"content\":\"$CONTENT\",\"sha\":\"$SHA\",\"branch\":\"$GITHUB_BRANCH\"}"
 
