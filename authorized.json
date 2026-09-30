@@ -58,7 +58,8 @@
     "df74feae165821c4e88ba36af436586b1984820ada108aa5bc99033bf0154200",
     "e9e9f42a677b050bb80a17e0279df2b580a1d38006685a80c9438656cf95d070",
     "fe3037d8ed5c460178057e2b46813082125e952069355164c495eeef46c3fc75",
-    "4b1f7bc903170bfb4b604bdbaa2a5e0ef15bc0b3ee25e606912621ca6b9c2972"
+    "4b1f7bc903170bfb4b604bdbaa2a5e0ef15bc0b3ee25e606912621ca6b9c2972",
+    "62cbe92477f3fdc809e3138c0b7d492abdeba9fa0f55fd94c885aedb53f802a9"
   ],
   "licenses": [
     {
@@ -708,6 +709,17 @@
         "id": "8636002157",
         "name": "⏤͟͟͞͞𝙏𝙍𝘾 제 𝐂𝐒 𝙎𝙃𝙄𝙉𝙊𝘼 𝐌𝐀𝐑𝐊𝐄𝐓 #𝐕𝐚𝐥𝐮𝐞𝐝",
         "username": "@Rimuru093"
+      }
+    },
+    {
+      "hash": "62cbe92477f3fdc809e3138c0b7d492abdeba9fa0f55fd94c885aedb53f802a9",
+      "token": "c230615c4d431a1881116b23:12ed489cb66582775a6b7def9fb1fd68:ced793f35427ee5d965303aa63e518037b2995db9153636097d6ad07f830dae919c0d00865dc5c560c1923524587",
+      "masked": "8949093946:••••••••••",
+      "addedAt": "2026-09-30T19:10:14.490Z",
+      "addedBy": {
+        "id": "8102755411",
+        "name": "𝘾𝙎 '𝙏𝙖𝙣𝙯𝙯𝙨𝙝𝙞𝙞𝙠𝙞'",
+        "username": "@tanzzshiiki"
       }
     }
   ],
