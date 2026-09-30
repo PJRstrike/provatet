@@ -1,1 +1,20 @@
-
+{
+  "tokens": [
+    "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d"
+  ],
+  "licenses": [
+    {
+      "hash": "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d",
+      "token": "2b1fca8e5e60e098e07a75b0:4439b5f5bedd955da3cbfd7ce180219c:145b760928fc1c804cca5e634c3b0c1c5a9cdad34ac4b7520d433b003ba1d86cda8012a3e40a4c7fc3cc576a8bdd",
+      "masked": "8702691224:••••••••••",
+      "addedAt": "2026-09-30T06:56:23.197Z",
+      "addedBy": {
+        "id": "1432185518",
+        "name": "𝑿𝑽𝑨𝑵𝑬𝑺𝑪𝑻 〆 𝑲𝑨𝑰𝑹𝑼𝑿 ⚝",
+        "username": "@KairuxNoir"
+      }
+    }
+  ],
+  "ceos": [],
+  "redeems": []
+}
