@@ -54,7 +54,8 @@
     "ad1a01ad41656f64e887d7689aa96f130c234a249fadb4681e520a8a0e082b07",
     "9db9e64cc945c4f15811e2e6cbc752c7ffa9b83f8b2ade47a18ae5912ddc3e07",
     "32c0588e9bed563d62249c15f37c2d7d36f9e7a72f809fdc778b611685e3258a",
-    "395d3626e9ae0964a6b5bbad2a919d5bf47319270beb5df1ca41bfe3f163b14a"
+    "395d3626e9ae0964a6b5bbad2a919d5bf47319270beb5df1ca41bfe3f163b14a",
+    "df74feae165821c4e88ba36af436586b1984820ada108aa5bc99033bf0154200"
   ],
   "licenses": [
     {
@@ -660,6 +661,17 @@
         "id": "8419143999",
         "name": "vezzcoopys¡ 𝙽𝙸𝙻𝙴𝙽𝚃𝚂𝙸𝚇 ܔܢܜܔ",
         "username": "@vezzcung"
+      }
+    },
+    {
+      "hash": "df74feae165821c4e88ba36af436586b1984820ada108aa5bc99033bf0154200",
+      "token": "15ba9714940b1e762a0c00c1:ab98df452f0ec543a0f4ae72f640e049:f90aca5c079ec1a2fca62b2bcda7ca1172d3cb448d7381d970f9fc5feb06949dc71084019e73ea45440895988137",
+      "masked": "8948261557:••••••••••",
+      "addedAt": "2026-09-30T11:57:51.108Z",
+      "addedBy": {
+        "id": "1868673737",
+        "name": "VýańTexas 🇨🇱",
+        "username": "@pfytm"
       }
     }
   ],
