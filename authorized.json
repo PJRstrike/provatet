@@ -51,7 +51,8 @@
     "db5630078e5c1d929688c665e4898f1b3a7bde96d40a8ed9baee5713b4657021",
     "741d3552d9d5eb077a487abd0dc6b4570df032157b66381d57800c5dc816aaeb",
     "c6d3995e06b5b00c5519d2499e7a629db4d958d742ae4249fd5f99790413b8c0",
-    "ad1a01ad41656f64e887d7689aa96f130c234a249fadb4681e520a8a0e082b07"
+    "ad1a01ad41656f64e887d7689aa96f130c234a249fadb4681e520a8a0e082b07",
+    "9db9e64cc945c4f15811e2e6cbc752c7ffa9b83f8b2ade47a18ae5912ddc3e07"
   ],
   "licenses": [
     {
@@ -624,6 +625,17 @@
         "id": "8102755411",
         "name": "𝘾𝙎 '𝙏𝙖𝙣𝙯𝙯𝙨𝙝𝙞𝙞𝙠𝙞'",
         "username": "@tanzzshiiki"
+      }
+    },
+    {
+      "hash": "9db9e64cc945c4f15811e2e6cbc752c7ffa9b83f8b2ade47a18ae5912ddc3e07",
+      "token": "aa37ef53ab143ca40e44e6eb:8e7b17f4cd751598615905e52e87cc94:25e52f9c28f0c0fbefcbeef5050eeb23272be49b88299ab67e1177b04c263dfde44e703756d6f8aea30f86f20e74",
+      "masked": "8990873843:••••••••••",
+      "addedAt": "2026-09-30T07:35:55.981Z",
+      "addedBy": {
+        "id": "8981900981",
+        "name": "Resi",
+        "username": "@Openreselervps"
       }
     }
   ],
