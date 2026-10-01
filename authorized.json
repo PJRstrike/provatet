@@ -60,7 +60,8 @@
     "fe3037d8ed5c460178057e2b46813082125e952069355164c495eeef46c3fc75",
     "4b1f7bc903170bfb4b604bdbaa2a5e0ef15bc0b3ee25e606912621ca6b9c2972",
     "62cbe92477f3fdc809e3138c0b7d492abdeba9fa0f55fd94c885aedb53f802a9",
-    "53ddefbc43eada659ccf9fb9fe012aeda6f202440459a32564a1c7581977286b"
+    "53ddefbc43eada659ccf9fb9fe012aeda6f202440459a32564a1c7581977286b",
+    "b98310887be6e33a925cee4c6513c5a3e23770cc3901dc8d8da721f8b1d45cf1"
   ],
   "licenses": [
     {
@@ -732,6 +733,17 @@
         "id": "8881868128",
         "name": "𝗠𝗔𝗛𝗜𝗔 𝗩𝗘𝗟𝗤𝗨𝗔𝗥𝗔 𝗥𝗘𝗔𝗗𝗬 𝗩𝗣𝗦 𝗗𝗢",
         "username": "-"
+      }
+    },
+    {
+      "hash": "b98310887be6e33a925cee4c6513c5a3e23770cc3901dc8d8da721f8b1d45cf1",
+      "token": "8e41664105111404dbe53cad:2e7b4db4379ff3d8279aaa78327ef61a:109fc57b1a2df9fa167dea7dec5060afe0eab16f3f89f16f84964e85f48363829ebd34ed0d05823c879dc306a39c",
+      "masked": "8771995494:••••••••••",
+      "addedAt": "2026-10-01T07:47:58.022Z",
+      "addedBy": {
+        "id": "8786888416",
+        "name": "⸸ 𝒙𝒗𝒂𝒏̌𝒆𝒔𝒄𝒕 𝗸𝘆𝘇𝗲𝗲 𝒇𝒐𝒓2𝒕 ♤ LIMPER",
+        "username": "@xyzovb"
       }
     }
   ],
