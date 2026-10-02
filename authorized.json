@@ -63,7 +63,8 @@
     "53ddefbc43eada659ccf9fb9fe012aeda6f202440459a32564a1c7581977286b",
     "b98310887be6e33a925cee4c6513c5a3e23770cc3901dc8d8da721f8b1d45cf1",
     "6e82d01071ffdb311acc4506c380106aabe937d8ed2c076341f8ce37713f0ba9",
-    "483180a10a0d00f9e5791eed7ecba052975ea9694eb02327331002414b0e7c1e"
+    "483180a10a0d00f9e5791eed7ecba052975ea9694eb02327331002414b0e7c1e",
+    "42955bebe88b59d6fea06799674fbaf494f772c0ae2f4db56a41dfccafe9f8fe"
   ],
   "licenses": [
     {
@@ -764,6 +765,17 @@
       "token": "96848b520d7bb4232c0341d6:f1e2c878895cea1b2a82f84520664ea7:52ed25b65a883255aae00cf5aae3241b28b7c61d6078f4b50916b57f7557f4401e9b8b9bf8ae96ef4a1ebfca520f",
       "masked": "8814410097:••••••••••",
       "addedAt": "2026-10-01T22:23:56.233Z",
+      "addedBy": {
+        "id": "8900910162",
+        "name": "ᯓ 🜲 𝔻𝕚𝕜𝕒𝕒 | 𝔼𝕩𝕖𝕔𝕦𝕥𝕖𝕕 (⩇⩇:⩇⩇) 「 𝐒𝐂𝐀𝐌 」",
+        "username": "@DikaaStore"
+      }
+    },
+    {
+      "hash": "42955bebe88b59d6fea06799674fbaf494f772c0ae2f4db56a41dfccafe9f8fe",
+      "token": "346f1794e9ebf6b2ee353542:2877b2e4d6378b5ae4d8b85dcfb61891:f3b253f598d92fb73dc1e0dfd57c925d59a3f3e2ec0d4e33497c926115dd79b7cc31038fad716b385423bded8ae5",
+      "masked": "8860202366:••••••••••",
+      "addedAt": "2026-10-02T02:00:45.734Z",
       "addedBy": {
         "id": "8900910162",
         "name": "ᯓ 🜲 𝔻𝕚𝕜𝕒𝕒 | 𝔼𝕩𝕖𝕔𝕦𝕥𝕖𝕕 (⩇⩇:⩇⩇) 「 𝐒𝐂𝐀𝐌 」",
