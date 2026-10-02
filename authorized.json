@@ -60,7 +60,8 @@
     "62cbe92477f3fdc809e3138c0b7d492abdeba9fa0f55fd94c885aedb53f802a9",
     "53ddefbc43eada659ccf9fb9fe012aeda6f202440459a32564a1c7581977286b",
     "b98310887be6e33a925cee4c6513c5a3e23770cc3901dc8d8da721f8b1d45cf1",
-    "3cb8196c810e3402649bf9e0a3e57ea626b182a1f36b30946556b940a0f08ae2"
+    "3cb8196c810e3402649bf9e0a3e57ea626b182a1f36b30946556b940a0f08ae2",
+    "8573fd523064b85e8905bf4effc01109569e92cabba60a9e03691f42a6fa2a1d"
   ],
   "licenses": [
     {
@@ -728,6 +729,17 @@
       "token": "6cfab47f635e67b228a3bdb2:21dd5a34fb21e060ad53a54b78c857ca:2744db3c60d3c30286aff304c773d3876c61ca9d29dcf3efda4ddcce4901c68e38baba5a9647d7c6efd0152f585c",
       "masked": "8560860608:••••••••••",
       "addedAt": "2026-10-02T05:29:21.807Z",
+      "addedBy": {
+        "id": "8517333024",
+        "name": "𝑶𝑳𝑰𝑵𝑬† 𝑬𝑿𝑻𝑰𝑪",
+        "username": "@putzExcn"
+      }
+    },
+    {
+      "hash": "8573fd523064b85e8905bf4effc01109569e92cabba60a9e03691f42a6fa2a1d",
+      "token": "b1b82e902d606b769cda7165:965a4811ab87950d25b384b60d5dff00:efb7a1976910f99f9d3a96debfea9aa1dc17554b5040fb6225cc641c5c6b95609034cb42ae91e4d00aae5fe9f31b",
+      "masked": "8867229567:••••••••••",
+      "addedAt": "2026-10-02T05:29:53.238Z",
       "addedBy": {
         "id": "8517333024",
         "name": "𝑶𝑳𝑰𝑵𝑬† 𝑬𝑿𝑻𝑰𝑪",
