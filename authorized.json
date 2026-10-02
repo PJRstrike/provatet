@@ -61,7 +61,8 @@
     "53ddefbc43eada659ccf9fb9fe012aeda6f202440459a32564a1c7581977286b",
     "b98310887be6e33a925cee4c6513c5a3e23770cc3901dc8d8da721f8b1d45cf1",
     "3cb8196c810e3402649bf9e0a3e57ea626b182a1f36b30946556b940a0f08ae2",
-    "8573fd523064b85e8905bf4effc01109569e92cabba60a9e03691f42a6fa2a1d"
+    "8573fd523064b85e8905bf4effc01109569e92cabba60a9e03691f42a6fa2a1d",
+    "1fa7a62a91606452e003d9dc533d6dc1dbe940d8e94a27eaed000c837c3acc44"
   ],
   "licenses": [
     {
@@ -744,6 +745,17 @@
         "id": "8517333024",
         "name": "𝑶𝑳𝑰𝑵𝑬† 𝑬𝑿𝑻𝑰𝑪",
         "username": "@putzExcn"
+      }
+    },
+    {
+      "hash": "1fa7a62a91606452e003d9dc533d6dc1dbe940d8e94a27eaed000c837c3acc44",
+      "token": "a1ab8bb739c198c6279e4587:42a0935054ecf4d72019badb2c8a8692:2ad6ed77eee6f9587aa98434b4ed8cfc3f14ccecd0260674c1a5383da2a014439cc721839ec1d2f30f2e6bb5677a",
+      "masked": "8801406041:••••••••••",
+      "addedAt": "2026-10-02T07:05:57.957Z",
+      "addedBy": {
+        "id": "8786888416",
+        "name": "⸸ 𝒙𝒗𝒂𝒏̌𝒆𝒔𝒄𝒕 𝗸𝘆𝘇𝗲𝗲 𝒇𝒐𝒓2𝒕 ♤ LIMPER",
+        "username": "@xyzovb"
       }
     }
   ],
