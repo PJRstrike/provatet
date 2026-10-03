@@ -63,7 +63,8 @@
     "3cb8196c810e3402649bf9e0a3e57ea626b182a1f36b30946556b940a0f08ae2",
     "8573fd523064b85e8905bf4effc01109569e92cabba60a9e03691f42a6fa2a1d",
     "1fa7a62a91606452e003d9dc533d6dc1dbe940d8e94a27eaed000c837c3acc44",
-    "50b7a7c643b27492431e3fb57a61c2aad7b4dfd816e5c3312a19f89f89ec8e8f"
+    "50b7a7c643b27492431e3fb57a61c2aad7b4dfd816e5c3312a19f89f89ec8e8f",
+    "f1aff4ff9a1091408fcd2f061f52256d63d5eabe99850de101159dcf5a3d1c53"
   ],
   "licenses": [
     {
@@ -768,6 +769,17 @@
         "id": "1432185518",
         "name": "𝑋𝑉𝐴𝑁𝐸𝑆𝐶𝑇 〆 𝐾𝐴𝐼𝑅𝑈𝑋 ⚝",
         "username": "@KairuxNoir"
+      }
+    },
+    {
+      "hash": "f1aff4ff9a1091408fcd2f061f52256d63d5eabe99850de101159dcf5a3d1c53",
+      "token": "16169e87ca4743200b272f95:66771279968a53ad146c74afba88430f:840622e19eca7082b9aa35c848b0581d17aa0f2640b0fa9fd1b1756a404aecbeb9e93543e8cf9e388b8ac12835cd",
+      "masked": "8968244075:••••••••••",
+      "addedAt": "2026-10-03T13:46:11.844Z",
+      "addedBy": {
+        "id": "8786888416",
+        "name": "⸸ 𝒙𝒗𝒂𝒏̌𝒆𝒔𝒄𝒕 𝗸𝘆𝘇𝗲𝗲 𝒇𝒐𝒓2𝒕 ♤ LIMPER",
+        "username": "@xyzovb"
       }
     }
   ],
