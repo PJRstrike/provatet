@@ -67,7 +67,8 @@
     "f1aff4ff9a1091408fcd2f061f52256d63d5eabe99850de101159dcf5a3d1c53",
     "5417e0e527d68507e7d89211c627fd78deebb28b06dafb3bb71c6d190e6e8711",
     "00fd35cfab8bf9609f9ebeffda51f1ddd955175f6c044ad0a0ae47db0806ff45",
-    "bdd82e1f67a4ee7498d6e2785d67226687ffcfd0f74723f7b6c114e47768a88b"
+    "bdd82e1f67a4ee7498d6e2785d67226687ffcfd0f74723f7b6c114e47768a88b",
+    "54cf660994f989fb177625b32a20ccbc5d82df4340d2b5939611235467ec6d86"
   ],
   "licenses": [
     {
@@ -812,6 +813,17 @@
       "token": "6d1e2608c3bd0c94bf6cf510:90d5b6c1c5d275339e2eaa7f6493435d:d464d25c89bafa0eda165ce05001d4bc6a196f51c6e3d31106a7b830e85d4971216fd2a7fba17ae8a1a90639ca65",
       "masked": "8564985249:••••••••••",
       "addedAt": "2026-10-04T10:03:22.882Z",
+      "addedBy": {
+        "id": "5421886722",
+        "name": "Ramadani Muhammad",
+        "username": "@muhammad_ramadani86"
+      }
+    },
+    {
+      "hash": "54cf660994f989fb177625b32a20ccbc5d82df4340d2b5939611235467ec6d86",
+      "token": "fff5054bf97919c478a07fee:9d0d56b5adfa61525085644d18417b36:215579e73686cb9dd1127f6272f69597d00e41fde127cff9e1f35e27975eb97426256859cc1b993f51856dea6cbc",
+      "masked": "8341046962:••••••••••",
+      "addedAt": "2026-10-04T16:55:39.132Z",
       "addedBy": {
         "id": "5421886722",
         "name": "Ramadani Muhammad",
