@@ -66,7 +66,8 @@
     "50b7a7c643b27492431e3fb57a61c2aad7b4dfd816e5c3312a19f89f89ec8e8f",
     "f1aff4ff9a1091408fcd2f061f52256d63d5eabe99850de101159dcf5a3d1c53",
     "5417e0e527d68507e7d89211c627fd78deebb28b06dafb3bb71c6d190e6e8711",
-    "00fd35cfab8bf9609f9ebeffda51f1ddd955175f6c044ad0a0ae47db0806ff45"
+    "00fd35cfab8bf9609f9ebeffda51f1ddd955175f6c044ad0a0ae47db0806ff45",
+    "ef28ec2eb87fc0b4ddc1155e9899eb6556ba18fda86711fe5c09938b0ac15408"
   ],
   "licenses": [
     {
@@ -804,6 +805,17 @@
         "id": "8674714143",
         "name": "𝐈𝐭𝟏𝐧𝐠𝐬𝐬𝐳; 𝐓𝐡𝐞' 𝐂𝐚𝐭𝐚𝐥𝐲𝐬𝐭: [ 𝚄𝚃𝙰𝙼𝙰 ]",
         "username": "@It1ngsszComeBack"
+      }
+    },
+    {
+      "hash": "ef28ec2eb87fc0b4ddc1155e9899eb6556ba18fda86711fe5c09938b0ac15408",
+      "token": "e083233186303fec7e61ae00:ae241d08675bfd06bd7df1cfb1aab317:63097b923f49a1c4b9e64d5253",
+      "masked": "676767:••••••••••",
+      "addedAt": "2026-10-04T07:46:31.424Z",
+      "addedBy": {
+        "id": "1432185518",
+        "name": "𝑋𝑉𝐴𝑁𝐸𝑆𝐶𝑇 〆 𝐾𝐴𝐼𝑅𝑈𝑋 ⚝",
+        "username": "@KairuxNoir"
       }
     }
   ],
