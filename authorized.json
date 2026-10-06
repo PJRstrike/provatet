@@ -70,7 +70,8 @@
     "bdd82e1f67a4ee7498d6e2785d67226687ffcfd0f74723f7b6c114e47768a88b",
     "54cf660994f989fb177625b32a20ccbc5d82df4340d2b5939611235467ec6d86",
     "a4f203eb9571a483b47104771b4ba0e09f3b6de0f5bbe0a32f14d39e3b3029b6",
-    "7f2aed277a3c6028c9e9d725c0a619b7ab1f2d409c562e43d1bbdad10e5ff9c0"
+    "7f2aed277a3c6028c9e9d725c0a619b7ab1f2d409c562e43d1bbdad10e5ff9c0",
+    "19cc0c7331336202df190e6f800a6201a4e10b350b364e7b5927ed539d26c6ed"
   ],
   "licenses": [
     {
@@ -852,6 +853,17 @@
         "id": "1351501483",
         "name": "./𝗬𝘂𝗲𝗲",
         "username": "@Top2Criminall"
+      }
+    },
+    {
+      "hash": "19cc0c7331336202df190e6f800a6201a4e10b350b364e7b5927ed539d26c6ed",
+      "token": "40a31aacbe97cb744ec8c6e1:a51d41e258c212a0889aa03811b67518:dd90ede56bd5705c79705f5b2136fc1dc367d09e2dac6d4f7422734bf97dfd026fe359dcf9a53e433e6765f5d59b",
+      "masked": "8537804742:••••••••••",
+      "addedAt": "2026-10-06T13:36:27.604Z",
+      "addedBy": {
+        "id": "8859497242",
+        "name": "- 𝚁𝚒𝚍𝚣𝚣 𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕",
+        "username": "@Ridzz013"
       }
     }
   ],
