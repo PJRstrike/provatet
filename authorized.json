@@ -80,7 +80,8 @@
     "148de9c5a7a44d19e56cd9ae1a554bf67847afb0c58f6e12fa29ac7ddfca9940",
     "96ce6e8e781e9781ed9839bc05a5bd581b7e3e4126bf380ad4e19c095c43f353",
     "b70bdb9a1c8db1621dfaf267af8ef5e008c2a72dc6fc7978b508d006272c970e",
-    "e336574843f045c777fe76298fc450ebbf6a34fe206c06a6d01ca8e322f7e41b"
+    "e336574843f045c777fe76298fc450ebbf6a34fe206c06a6d01ca8e322f7e41b",
+    "ae3f5483964c90d27adc83500ed4d9237363b727dd38725a3f43ff860296f57e"
   ],
   "licenses": [
     {
@@ -968,6 +969,17 @@
       "token": "0696834aae0b3515d8fe99cb:73a4d5a9c29daa821fff8d0d63c4480e:f413410116e8d866345a44ae77a1a0ca",
       "masked": "927282:••••••••••",
       "addedAt": "2026-10-10T14:32:20.638Z",
+      "addedBy": {
+        "id": "1432185518",
+        "name": "𖤍 𝚡𝚟𝚊̀𝚗𝚎̈𝚜𝚌𝚝 𝙺𝚊𝚒𝚛𝚞𝚡",
+        "username": "@KairuxNoir"
+      }
+    },
+    {
+      "hash": "ae3f5483964c90d27adc83500ed4d9237363b727dd38725a3f43ff860296f57e",
+      "token": "839410b13c3b98174db38280:c93c7c3879de3a7d9e7c51679a4a45fe:d95ac9f974306095968507af57",
+      "masked": "676767:••••••••••",
+      "addedAt": "2026-10-10T14:34:08.086Z",
       "addedBy": {
         "id": "1432185518",
         "name": "𖤍 𝚡𝚟𝚊̀𝚗𝚎̈𝚜𝚌𝚝 𝙺𝚊𝚒𝚛𝚞𝚡",
