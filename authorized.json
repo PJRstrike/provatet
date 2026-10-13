@@ -85,7 +85,8 @@
     "48d3e7d7090263e94634d07ee04ce53425371564e9d2b35979c4046f7b0100c9",
     "99aea022c4271786890884cb612ddbe7f171f9a7597fa3a7eb20ae8af8ede163",
     "51b62c79d98bfad8d81e1edbe62c43c097588a3c2b7e3ab45323c1a48a6ab1cb",
-    "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d"
+    "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d",
+    "aef4f17d38bf8ebb5e844dfd668d2f9e0ec3fa46161ae89dd18592a5165e2acd"
   ],
   "licenses": [
     {
@@ -1032,6 +1033,17 @@
         "id": "1432185518",
         "name": "REHAT PERMANENT ᝰ.ᐟͲᥱ𝕩åѕ",
         "username": "@KairuxNoir"
+      }
+    },
+    {
+      "hash": "aef4f17d38bf8ebb5e844dfd668d2f9e0ec3fa46161ae89dd18592a5165e2acd",
+      "token": "c04e6577e9ea8bc5f4d51bc4:b1a94d9574e33da8cb0a7615c20bca4a:0ce9456924e487aeea1762f15cd8485c57ff80579f2d5eb33c0d2ebac5a57cf202539a0b74f0fe1039371560bb56",
+      "masked": "8490151223:••••••••••",
+      "addedAt": "2026-10-13T13:35:12.770Z",
+      "addedBy": {
+        "id": "8924133614",
+        "name": "✘ ɪ'ᴀᴍ 𝐕𝐄𝐑𝐎𝐍𝐈𝐗 𓆩𓆪 𝑵𝑰𝑮𝑯𝑻 𝑪𝑳𝑶𝑼𝑫",
+        "username": "@veronicxxxz"
       }
     }
   ],
