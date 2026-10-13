@@ -86,7 +86,8 @@
     "99aea022c4271786890884cb612ddbe7f171f9a7597fa3a7eb20ae8af8ede163",
     "51b62c79d98bfad8d81e1edbe62c43c097588a3c2b7e3ab45323c1a48a6ab1cb",
     "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d",
-    "aef4f17d38bf8ebb5e844dfd668d2f9e0ec3fa46161ae89dd18592a5165e2acd"
+    "aef4f17d38bf8ebb5e844dfd668d2f9e0ec3fa46161ae89dd18592a5165e2acd",
+    "005a038690b1ff29158283342245f090504dc58ca221093a2010281dbeb6c16e"
   ],
   "licenses": [
     {
@@ -1044,6 +1045,17 @@
         "id": "8924133614",
         "name": "✘ ɪ'ᴀᴍ 𝐕𝐄𝐑𝐎𝐍𝐈𝐗 𓆩𓆪 𝑵𝑰𝑮𝑯𝑻 𝑪𝑳𝑶𝑼𝑫",
         "username": "@veronicxxxz"
+      }
+    },
+    {
+      "hash": "005a038690b1ff29158283342245f090504dc58ca221093a2010281dbeb6c16e",
+      "token": "4571696cb58f2f1c330bdf5d:64eef43269c3d5dc35e2b6ede5b91b26:7979828b8b82d0d94a4a68414beb69675d9a061c646696406bacb03847191c5022b7ce5fcca44b39a7a9526b537b",
+      "masked": "8615319335:••••••••••",
+      "addedAt": "2026-10-13T13:35:22.237Z",
+      "addedBy": {
+        "id": "1936469745",
+        "name": "⸸ 𝒙𝒗𝒂𝒏𝒆𝒔𝒄𝒕 𝒑𝒊𝒏𝒙𝒚 ( open mc/rekber )",
+        "username": "@top1hytam"
       }
     }
   ],
