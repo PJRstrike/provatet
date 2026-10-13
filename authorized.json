@@ -84,7 +84,8 @@
     "f93f30335edb6ba75c3c9f0381db34ad5fce10f4b6a85bef635292853a571991",
     "48d3e7d7090263e94634d07ee04ce53425371564e9d2b35979c4046f7b0100c9",
     "99aea022c4271786890884cb612ddbe7f171f9a7597fa3a7eb20ae8af8ede163",
-    "51b62c79d98bfad8d81e1edbe62c43c097588a3c2b7e3ab45323c1a48a6ab1cb"
+    "51b62c79d98bfad8d81e1edbe62c43c097588a3c2b7e3ab45323c1a48a6ab1cb",
+    "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d"
   ],
   "licenses": [
     {
@@ -1020,6 +1021,17 @@
         "id": "8852237353",
         "name": "Butuh Panel Legal? Cek bio",
         "username": "@pvajg"
+      }
+    },
+    {
+      "hash": "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d",
+      "token": "0f1dbe20d5cde20caa8dadbc:241282bb5c960eace62b4f14c5c4172b:7502225fdcd7c981c3f74282d02d3cf07432bb6171aa76a86889e109c15f23ce36a5289a3159bc0f504484056634",
+      "masked": "8702691224:••••••••••",
+      "addedAt": "2026-10-13T06:15:51.904Z",
+      "addedBy": {
+        "id": "1432185518",
+        "name": "REHAT PERMANENT ᝰ.ᐟͲᥱ𝕩åѕ",
+        "username": "@KairuxNoir"
       }
     }
   ],
