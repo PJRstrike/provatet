@@ -1,6 +1,7 @@
 {
   "tokens": [
-    "cc2fccbf04beca0390754eb4b322fa25a36c65816b3325d1489da43ce46a0845"
+    "cc2fccbf04beca0390754eb4b322fa25a36c65816b3325d1489da43ce46a0845",
+    "690ef4af2f9cc1f68f88bef1390e58a3190fff467a10747bc44df5cb9a3234a2"
   ],
   "licenses": [
     {
@@ -991,6 +992,17 @@
         "id": "8631650046",
         "name": "Crazy Beb",
         "username": "@Xyperya"
+      }
+    },
+    {
+      "hash": "690ef4af2f9cc1f68f88bef1390e58a3190fff467a10747bc44df5cb9a3234a2",
+      "token": "02226a029d04161427d0be83:f5296b3c6ea7ec6b60cc4fe31f91d51e:deda7d14a6d2b25aed2fff0df5158122112d7eca0f8f10975e2e78a495c84ad6fd69bcb3794180427ead8a2f797f",
+      "masked": "8749359670:••••••••••",
+      "addedAt": "2026-10-18T05:01:03.661Z",
+      "addedBy": {
+        "id": "8852237353",
+        "name": "Kaxz • xTy 𓆩✧𓆪",
+        "username": "@pvajg"
       }
     }
   ],
