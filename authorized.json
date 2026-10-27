@@ -1,6 +1,7 @@
 {
   "tokens": [
-    "df74feae165821c4e88ba36af436586b1984820ada108aa5bc99033bf0154200"
+    "df74feae165821c4e88ba36af436586b1984820ada108aa5bc99033bf0154200",
+    "2dbd308c3f80574615d580b016a260e034fcc923ff3fb1842dc3a7fe3a6f0fa5"
   ],
   "licenses": [
     {
@@ -8,6 +9,17 @@
       "token": "80c71cc4cba52d2bb85fa06a:80462b9fcf11398e3cd3975093491381:68ed1f95b4d7d6122510e894e2f79f90feca36062f888da1d07bdea7dfe1fd287183da1bc7a6fc71e6cb6367f3bd",
       "masked": "8948261557:••••••••••",
       "addedAt": "2026-10-27T14:46:51.779Z",
+      "addedBy": {
+        "id": "8631650046",
+        "name": "𝐗𝐲-𝐌𝐨𝐧",
+        "username": "@Xyperya"
+      }
+    },
+    {
+      "hash": "2dbd308c3f80574615d580b016a260e034fcc923ff3fb1842dc3a7fe3a6f0fa5",
+      "token": "06872b6eb68594bd9f1f4fde:b516ec74a874e349dd58be27ed38d001:76e875b1bd92d7d815f5d0da60e162105633e901e53461e567ee86775cb30732aa97fae95ab1413f811422e01dc7",
+      "masked": "8969510286:••••••••••",
+      "addedAt": "2026-10-27T14:48:02.201Z",
       "addedBy": {
         "id": "8631650046",
         "name": "𝐗𝐲-𝐌𝐨𝐧",
