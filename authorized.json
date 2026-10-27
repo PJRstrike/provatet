@@ -4,7 +4,8 @@
     "2dbd308c3f80574615d580b016a260e034fcc923ff3fb1842dc3a7fe3a6f0fa5",
     "e15d7487e1e17c91ef40154caeeb22db48506c999260b794def218374444a7d8",
     "a538d020ec8c914f0a2fbad051549d03d968134513518d24f6b7573ed58623a0",
-    "99aea022c4271786890884cb612ddbe7f171f9a7597fa3a7eb20ae8af8ede163"
+    "99aea022c4271786890884cb612ddbe7f171f9a7597fa3a7eb20ae8af8ede163",
+    "d30fab5b6c7eb0e36aa496117a9c01befad4c4e1aad6f3f9d66e26a20a83cb53"
   ],
   "licenses": [
     {
@@ -56,6 +57,17 @@
       "token": "d428416545c79e028f7cbb0b:20fac62934caba3c29ed09e5661b1a62:a353d470f37dc43f99c08217ef1a0c56a8c159de8af6503225800fb4fa0b6dc7241d4050c27c175a18b941309365",
       "masked": "8972847575:••••••••••",
       "addedAt": "2026-10-27T16:17:24.840Z",
+      "addedBy": {
+        "id": "5695432819",
+        "name": "​ RYZZ CLOUD — Digital Produk ID || #americanboys",
+        "username": "@RyzzAj7"
+      }
+    },
+    {
+      "hash": "d30fab5b6c7eb0e36aa496117a9c01befad4c4e1aad6f3f9d66e26a20a83cb53",
+      "token": "1b51632643681841a953e943:12acfae3d03afee4e15e965ccafe1afc:0cf2143c0469a1c8d2c9e30b5a3622e46caabd44a4c8f4f61f429031a9d2b5c3d93976110d22dafa096d527cc76c",
+      "masked": "8821900485:••••••••••",
+      "addedAt": "2026-10-27T16:18:45.446Z",
       "addedBy": {
         "id": "5695432819",
         "name": "​ RYZZ CLOUD — Digital Produk ID || #americanboys",
