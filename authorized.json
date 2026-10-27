@@ -1,7 +1,8 @@
 {
   "tokens": [
     "df74feae165821c4e88ba36af436586b1984820ada108aa5bc99033bf0154200",
-    "2dbd308c3f80574615d580b016a260e034fcc923ff3fb1842dc3a7fe3a6f0fa5"
+    "2dbd308c3f80574615d580b016a260e034fcc923ff3fb1842dc3a7fe3a6f0fa5",
+    "e15d7487e1e17c91ef40154caeeb22db48506c999260b794def218374444a7d8"
   ],
   "licenses": [
     {
@@ -24,6 +25,17 @@
         "id": "8631650046",
         "name": "𝐗𝐲-𝐌𝐨𝐧",
         "username": "@Xyperya"
+      }
+    },
+    {
+      "hash": "e15d7487e1e17c91ef40154caeeb22db48506c999260b794def218374444a7d8",
+      "token": "896414d326e6a3ba4589fc34:a034f6b1d4879306e3c2bc6aa75c2672:01fef6019a211dd1a4db966d3463895df0e850760dbeec5bf1a2a5e1fc275a8917d2e2105e960f04f024213b38be",
+      "masked": "8990873843:••••••••••",
+      "addedAt": "2026-10-27T14:48:28.528Z",
+      "addedBy": {
+        "id": "8981900981",
+        "name": "Resi",
+        "username": "@Openreselervps"
       }
     }
   ],
