@@ -7,7 +7,8 @@
     "99aea022c4271786890884cb612ddbe7f171f9a7597fa3a7eb20ae8af8ede163",
     "d30fab5b6c7eb0e36aa496117a9c01befad4c4e1aad6f3f9d66e26a20a83cb53",
     "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d",
-    "03638f52b84f68313fdee08d62c61b70815639ff19c22430ce9da81cd16071c7"
+    "03638f52b84f68313fdee08d62c61b70815639ff19c22430ce9da81cd16071c7",
+    "2190fafad1281f613b6ae0ee2e30dc9c996eabcc3ced57f8a421bae5316643f7"
   ],
   "licenses": [
     {
@@ -85,6 +86,17 @@
         "id": "8669758627",
         "name": "⸸𝚡𝚟𝚊𝚗𝚎𝚜𝚌𝚝 Ḳḕṿǐǹ 𝑝𝑒𝑛𝑡𝑜𝑙𝑙 ./𝑳𝒐𝒄𝒂𝒕𝒊𝒐𝒏",
         "username": "@vinxzaj"
+      }
+    },
+    {
+      "hash": "2190fafad1281f613b6ae0ee2e30dc9c996eabcc3ced57f8a421bae5316643f7",
+      "token": "49cefb9f1374c9b6e0f0cb40:f4db51fccf94e7272b8b91e701cf29e7:28ff21dbe35a2373627d40c4c46c19bb758967ec310bda3c6e820152d75a03643c08df726dd448b0afbf709c650f",
+      "masked": "8990873843:••••••••••",
+      "addedAt": "2026-11-02T14:50:22.221Z",
+      "addedBy": {
+        "id": "8981900981",
+        "name": "Resi",
+        "username": "@Openreselervps"
       }
     }
   ],
