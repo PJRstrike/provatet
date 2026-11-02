@@ -8,7 +8,8 @@
     "d30fab5b6c7eb0e36aa496117a9c01befad4c4e1aad6f3f9d66e26a20a83cb53",
     "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d",
     "03638f52b84f68313fdee08d62c61b70815639ff19c22430ce9da81cd16071c7",
-    "2190fafad1281f613b6ae0ee2e30dc9c996eabcc3ced57f8a421bae5316643f7"
+    "2190fafad1281f613b6ae0ee2e30dc9c996eabcc3ced57f8a421bae5316643f7",
+    "1fa7a62a91606452e003d9dc533d6dc1dbe940d8e94a27eaed000c837c3acc44"
   ],
   "licenses": [
     {
@@ -97,6 +98,17 @@
         "id": "8981900981",
         "name": "Resi",
         "username": "@Openreselervps"
+      }
+    },
+    {
+      "hash": "1fa7a62a91606452e003d9dc533d6dc1dbe940d8e94a27eaed000c837c3acc44",
+      "token": "de81cef2c97e9eed53f68bbe:ddede849cb20230924c75382c3909d61:668447825938a5b84058711b754a3320bf6c17b3968838991b34bb1699f11c1959837b96f519e8cdc787091c3f3c",
+      "masked": "8801406041:••••••••••",
+      "addedAt": "2026-11-02T15:19:38.592Z",
+      "addedBy": {
+        "id": "8853126853",
+        "name": "⸸ 𝑥𝑣𝑎𝑛𝑒𝑠𝑐𝑡 𝑥𝑦𝑑𝑒𝑛 - 7 4 5 ! ☭",
+        "username": "@xyzvb"
       }
     }
   ],
