@@ -9,7 +9,8 @@
     "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d",
     "03638f52b84f68313fdee08d62c61b70815639ff19c22430ce9da81cd16071c7",
     "2190fafad1281f613b6ae0ee2e30dc9c996eabcc3ced57f8a421bae5316643f7",
-    "1fa7a62a91606452e003d9dc533d6dc1dbe940d8e94a27eaed000c837c3acc44"
+    "1fa7a62a91606452e003d9dc533d6dc1dbe940d8e94a27eaed000c837c3acc44",
+    "50b7a7c643b27492431e3fb57a61c2aad7b4dfd816e5c3312a19f89f89ec8e8f"
   ],
   "licenses": [
     {
@@ -109,6 +110,17 @@
         "id": "8853126853",
         "name": "⸸ 𝑥𝑣𝑎𝑛𝑒𝑠𝑐𝑡 𝑥𝑦𝑑𝑒𝑛 - 7 4 5 ! ☭",
         "username": "@xyzvb"
+      }
+    },
+    {
+      "hash": "50b7a7c643b27492431e3fb57a61c2aad7b4dfd816e5c3312a19f89f89ec8e8f",
+      "token": "e6a05c10a20b1df45ed8b751:0875ff0fa63a408d1904bd4e220d549a:bee224057a178ef412d7de108367522e6671fcc17f50712f291e31352bd2960b521eb4a5665dd721a9d93bea5ee4",
+      "masked": "8677609629:••••••••••",
+      "addedAt": "2026-11-03T12:57:07.799Z",
+      "addedBy": {
+        "id": "1432185518",
+        "name": "𝑭𝒍𝒐𝒓𝒆𝒏𝒕𝒊𝒏",
+        "username": "@florentique"
       }
     }
   ],
