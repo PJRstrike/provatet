@@ -11,7 +11,8 @@
     "2190fafad1281f613b6ae0ee2e30dc9c996eabcc3ced57f8a421bae5316643f7",
     "1fa7a62a91606452e003d9dc533d6dc1dbe940d8e94a27eaed000c837c3acc44",
     "50b7a7c643b27492431e3fb57a61c2aad7b4dfd816e5c3312a19f89f89ec8e8f",
-    "e1829b97511f3aedff10d7d4653421da6c56f580223dff5e20ebf2d3d0511666"
+    "e1829b97511f3aedff10d7d4653421da6c56f580223dff5e20ebf2d3d0511666",
+    "a7c6173db53554e8aeac05c700dd8e299202f1e7ea4d56d0f0e52bc5869cfff2"
   ],
   "licenses": [
     {
@@ -133,6 +134,17 @@
         "id": "8307504604",
         "name": "⚔️XOLID #𝐓𝚵𝐗𝐀𝐒 𝐒❂𝐋Í𝐃𝐀𝐑Í𝐓𝑌 🇨🇱",
         "username": "@Ajaymell"
+      }
+    },
+    {
+      "hash": "a7c6173db53554e8aeac05c700dd8e299202f1e7ea4d56d0f0e52bc5869cfff2",
+      "token": "122c4fea48caf4ea48d6e125:4460dbd091601e31012dfd1b6ecf0de4:f2cc3290a2abc55545b29e109a655367981ba9bdf7278488ee7a6fd085668f69a89c339ec3cc0bf0bcc96eff9de8",
+      "masked": "8740068819:••••••••••",
+      "addedAt": "2026-11-04T12:56:19.925Z",
+      "addedBy": {
+        "id": "1868673737",
+        "name": "vyãñ tors",
+        "username": "@pfytm"
       }
     }
   ],
