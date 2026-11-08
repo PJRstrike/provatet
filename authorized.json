@@ -17,7 +17,8 @@
     "395d3626e9ae0964a6b5bbad2a919d5bf47319270beb5df1ca41bfe3f163b14a",
     "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
     "505e22daf79bae6316ec95923a9306f7a093a518b17337b7ca5de96efb12418b",
-    "bcaf027d34334209e12617548675824cc0a59570157657bedf26ab26b7d87b0f"
+    "bcaf027d34334209e12617548675824cc0a59570157657bedf26ab26b7d87b0f",
+    "52fa688f8782c1138f99446f7fae49788fb07eb3bf224eb0dc281550a4b8fcef"
   ],
   "licenses": [
     {
@@ -205,6 +206,17 @@
         "id": "8981900981",
         "name": "Resi",
         "username": "@Openreselervps"
+      }
+    },
+    {
+      "hash": "52fa688f8782c1138f99446f7fae49788fb07eb3bf224eb0dc281550a4b8fcef",
+      "token": "86c762b389c0271d0ec6d8b3:5670a4e131511ea4ededc0119151ef93:793c68884d3fb98387ac14e4b478f1eaeb7cb1ba1d8962ee65252ee6a6d9fd62bd90745446f92b41ede6ffe84a48",
+      "masked": "9241014360:••••••••••",
+      "addedAt": "2026-11-08T22:38:24.506Z",
+      "addedBy": {
+        "id": "1663691365",
+        "name": "𝗦𝗔𝗡𝗭𝗬",
+        "username": "@sanzy1r"
       }
     }
   ],
