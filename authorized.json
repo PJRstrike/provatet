@@ -15,7 +15,8 @@
     "a7c6173db53554e8aeac05c700dd8e299202f1e7ea4d56d0f0e52bc5869cfff2",
     "e9e9f42a677b050bb80a17e0279df2b580a1d38006685a80c9438656cf95d070",
     "395d3626e9ae0964a6b5bbad2a919d5bf47319270beb5df1ca41bfe3f163b14a",
-    "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
+    "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+    "505e22daf79bae6316ec95923a9306f7a093a518b17337b7ca5de96efb12418b"
   ],
   "licenses": [
     {
@@ -181,6 +182,17 @@
         "id": "1432185518",
         "name": "𝑭𝒍𝒐𝒓𝒆𝒏𝒕𝒊𝒏 ❨ ᵀ𝑿 · 𝟶𝟺 ❩",
         "username": "@florentique"
+      }
+    },
+    {
+      "hash": "505e22daf79bae6316ec95923a9306f7a093a518b17337b7ca5de96efb12418b",
+      "token": "7328cb6fa1e15d79a1784f80:db1450694d80b7a307cbb680ba0feff1:cc70a3915da904655a58993c232051aedd89d32b94ac2303b33006f018021a0162cbbcb265b26717b20acc888831",
+      "masked": "9254098475:••••••••••",
+      "addedAt": "2026-11-08T13:43:29.701Z",
+      "addedBy": {
+        "id": "8981900981",
+        "name": "Resi",
+        "username": "@Openreselervps"
       }
     }
   ],
