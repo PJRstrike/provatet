@@ -14,7 +14,8 @@
     "e1829b97511f3aedff10d7d4653421da6c56f580223dff5e20ebf2d3d0511666",
     "a7c6173db53554e8aeac05c700dd8e299202f1e7ea4d56d0f0e52bc5869cfff2",
     "e9e9f42a677b050bb80a17e0279df2b580a1d38006685a80c9438656cf95d070",
-    "395d3626e9ae0964a6b5bbad2a919d5bf47319270beb5df1ca41bfe3f163b14a"
+    "395d3626e9ae0964a6b5bbad2a919d5bf47319270beb5df1ca41bfe3f163b14a",
+    "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
   ],
   "licenses": [
     {
@@ -169,6 +170,17 @@
         "id": "8967163839",
         "name": "𝐕𝐞𝐳𝐳𝐂𝐨𝐨𝐩𝐲𝐬!¡ [ Open apk & Panel ]",
         "username": "@vezzkhusus"
+      }
+    },
+    {
+      "hash": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+      "token": "db4b1b8df4856cd2f90f3034:8c0ba0a13800a890ab0486196bc224fc:a3ad1e18",
+      "masked": "••••••••",
+      "addedAt": "2026-11-08T00:38:21.472Z",
+      "addedBy": {
+        "id": "1432185518",
+        "name": "𝑭𝒍𝒐𝒓𝒆𝒏𝒕𝒊𝒏 ❨ ᵀ𝑿 · 𝟶𝟺 ❩",
+        "username": "@florentique"
       }
     }
   ],
