@@ -17,7 +17,8 @@
     "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
     "505e22daf79bae6316ec95923a9306f7a093a518b17337b7ca5de96efb12418b",
     "bcaf027d34334209e12617548675824cc0a59570157657bedf26ab26b7d87b0f",
-    "52fa688f8782c1138f99446f7fae49788fb07eb3bf224eb0dc281550a4b8fcef"
+    "52fa688f8782c1138f99446f7fae49788fb07eb3bf224eb0dc281550a4b8fcef",
+    "5417e0e527d68507e7d89211c627fd78deebb28b06dafb3bb71c6d190e6e8711"
   ],
   "licenses": [
     {
@@ -205,6 +206,17 @@
         "id": "1663691365",
         "name": "𝗦𝗔𝗡𝗭𝗬",
         "username": "@sanzy1r"
+      }
+    },
+    {
+      "hash": "5417e0e527d68507e7d89211c627fd78deebb28b06dafb3bb71c6d190e6e8711",
+      "token": "b89679b1c05d6e30ad16b1dc:9590afccf08650ff3fa2858f33b08e29:04cab9388c85acd1c553d42086bb76adc605d2d7f136dece81544e3c8bff8312d1f5bcb41b076747d850ed9ac70c",
+      "masked": "8881891899:••••••••••",
+      "addedAt": "2026-11-10T08:34:41.471Z",
+      "addedBy": {
+        "id": "8674714143",
+        "name": "𝐈𝐭𝟏𝐧𝐠𝐬𝐬𝐳; 𝐓𝐡𝐞' 𝐂𝐚𝐭𝐚𝐥𝐲𝐬𝐭: [ 𝚄𝚃𝙰𝙼𝙰 ]",
+        "username": "@It1ngsszComeBack"
       }
     }
   ],
