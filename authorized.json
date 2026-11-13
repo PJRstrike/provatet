@@ -19,7 +19,8 @@
     "bcaf027d34334209e12617548675824cc0a59570157657bedf26ab26b7d87b0f",
     "52fa688f8782c1138f99446f7fae49788fb07eb3bf224eb0dc281550a4b8fcef",
     "5417e0e527d68507e7d89211c627fd78deebb28b06dafb3bb71c6d190e6e8711",
-    "7eca936434dba6a778a729ec230f177862753bae92d406ac9d4c84a292ad581d"
+    "7eca936434dba6a778a729ec230f177862753bae92d406ac9d4c84a292ad581d",
+    "d574f1b4bf926fb0e437052fd4f34a3801855848cccba97845ad6abd141c6b19"
   ],
   "licenses": [
     {
@@ -229,6 +230,17 @@
         "id": "1705101569",
         "name": "𝗂𝗅𝗒𝗌𝗆𝟦𝗌𝗍𝗋𝖺 𝗌𝖺𝗇𝖼𝗍𝗎𝖺𝗋𝗒 𐂡 — 7 4 5 !",
         "username": "@xastraworld"
+      }
+    },
+    {
+      "hash": "d574f1b4bf926fb0e437052fd4f34a3801855848cccba97845ad6abd141c6b19",
+      "token": "8c09ff6b7d1b2cf3d05eb770:7875f6e7c8c9b000f888216827460038:f3052775e39f18907769c5154cc01bbe4559ca81d1308b4e1f5e0913b2e3df6dd1d7dd25bc56a797e05294153315",
+      "masked": "8911256492:••••••••••",
+      "addedAt": "2026-11-13T10:13:42.790Z",
+      "addedBy": {
+        "id": "7089592151",
+        "name": "𝑰𝒃𝒛𝒛𝒛𝑿𝒚𝒔𝒛𝒛",
+        "username": "@IbzzMekkkkkkkkkkk"
       }
     }
   ],
