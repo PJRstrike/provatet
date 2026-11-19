@@ -22,7 +22,8 @@
     "7eca936434dba6a778a729ec230f177862753bae92d406ac9d4c84a292ad581d",
     "d574f1b4bf926fb0e437052fd4f34a3801855848cccba97845ad6abd141c6b19",
     "6d3c4ea1ce88ed8c22fe57b0a18ba82b451fa064e02467debf0c2deb1fe85ef6",
-    "87e52478cb711662d26254812c63f2f44a33886d6c532957fba4e3bddf18a9ea"
+    "87e52478cb711662d26254812c63f2f44a33886d6c532957fba4e3bddf18a9ea",
+    "249b1ff052ad6fffb328832de13d3214ce1e2e34eece2e936dc0f6f7d185f0c5"
   ],
   "licenses": [
     {
@@ -265,6 +266,17 @@
         "id": "8924133614",
         "name": "⌁ 𝗩𝗲𝗿𝗼𝗻𝗶𝘅 𝗖𝗹𝗼𝘂𝗱 | 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗣𝗿𝗼𝗱𝘂𝗸 𝗜𝗗 𒀭",
         "username": "-"
+      }
+    },
+    {
+      "hash": "249b1ff052ad6fffb328832de13d3214ce1e2e34eece2e936dc0f6f7d185f0c5",
+      "token": "35cfde18c024f0ac21aced99:599383c855c30a2ca58a81c9314993a7:2097d7aa0280aac2",
+      "masked": "••••••••",
+      "addedAt": "2026-11-19T11:52:47.724Z",
+      "addedBy": {
+        "id": "1351501483",
+        "name": "￴ ￴￴ ￴ ￴￴￴ ￴ ￴ ￴ ￴ん — Archive",
+        "username": "@vaginamaklow"
       }
     }
   ],
