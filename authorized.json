@@ -23,7 +23,8 @@
     "d574f1b4bf926fb0e437052fd4f34a3801855848cccba97845ad6abd141c6b19",
     "6d3c4ea1ce88ed8c22fe57b0a18ba82b451fa064e02467debf0c2deb1fe85ef6",
     "87e52478cb711662d26254812c63f2f44a33886d6c532957fba4e3bddf18a9ea",
-    "249b1ff052ad6fffb328832de13d3214ce1e2e34eece2e936dc0f6f7d185f0c5"
+    "249b1ff052ad6fffb328832de13d3214ce1e2e34eece2e936dc0f6f7d185f0c5",
+    "9415f16debaa2d6014965048628eb7defd51330a8958e9e56092b72491f9e252"
   ],
   "licenses": [
     {
@@ -277,6 +278,17 @@
         "id": "1351501483",
         "name": "￴ ￴￴ ￴ ￴￴￴ ￴ ￴ ￴ ￴ん — Archive",
         "username": "@vaginamaklow"
+      }
+    },
+    {
+      "hash": "9415f16debaa2d6014965048628eb7defd51330a8958e9e56092b72491f9e252",
+      "token": "66cd2441d0e03118860426d0:3765daba2c397ced5f2d9ece68f4629d:0f53ec2c953bb60084120579cdd40f9c52d7d6daf9522212a9ad593c4df5f0779f1f39fdac29eea7f2d01c47ec37",
+      "masked": "9134416913:••••••••••",
+      "addedAt": "2026-11-20T06:22:44.515Z",
+      "addedBy": {
+        "id": "8307504604",
+        "name": "⚔️XOLID #𝐓𝚵𝐗𝐀𝐒 𝐒❂𝐋Í𝐃𝐀𝐑Í𝐓𝑌 🇨🇱",
+        "username": "@Ajaymell"
       }
     }
   ],
