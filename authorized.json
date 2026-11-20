@@ -23,7 +23,8 @@
     "6d3c4ea1ce88ed8c22fe57b0a18ba82b451fa064e02467debf0c2deb1fe85ef6",
     "87e52478cb711662d26254812c63f2f44a33886d6c532957fba4e3bddf18a9ea",
     "249b1ff052ad6fffb328832de13d3214ce1e2e34eece2e936dc0f6f7d185f0c5",
-    "9415f16debaa2d6014965048628eb7defd51330a8958e9e56092b72491f9e252"
+    "9415f16debaa2d6014965048628eb7defd51330a8958e9e56092b72491f9e252",
+    "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d"
   ],
   "licenses": [
     {
@@ -288,6 +289,17 @@
         "id": "8307504604",
         "name": "⚔️XOLID #𝐓𝚵𝐗𝐀𝐒 𝐒❂𝐋Í𝐃𝐀𝐑Í𝐓𝑌 🇨🇱",
         "username": "@Ajaymell"
+      }
+    },
+    {
+      "hash": "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d",
+      "token": "322a3326143188f687ce2b20:b891b102f69a518336e088fdf51ba0fe:a08a722fd4bb59132d675b2fae37801fd1ca231f910097605347ad172af6f44bdc417106e5e2d893e7b8915146c9",
+      "masked": "8702691224:••••••••••",
+      "addedAt": "2026-11-20T13:40:07.748Z",
+      "addedBy": {
+        "id": "1432185518",
+        "name": "𝑭𝒍𝒐𝒓𝒆𝒏𝒕𝒊𝒏 ❨ #RvX ᵀ𝑿 · 𝟶𝟺 ❩",
+        "username": "@florentique"
       }
     }
   ],
