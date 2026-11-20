@@ -24,7 +24,8 @@
     "87e52478cb711662d26254812c63f2f44a33886d6c532957fba4e3bddf18a9ea",
     "249b1ff052ad6fffb328832de13d3214ce1e2e34eece2e936dc0f6f7d185f0c5",
     "9415f16debaa2d6014965048628eb7defd51330a8958e9e56092b72491f9e252",
-    "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d"
+    "a520dfbca768172e80e686bb853eccb29404b983685d03ff82030a4e8a01df3d",
+    "8254c329a92850f6d539dd376f4816ee2764517da5e0235514af433164480d7a"
   ],
   "licenses": [
     {
@@ -296,6 +297,17 @@
       "token": "c59ce616dae5f4b3d89b340e:b467f9cff459316ad0132ab2cf7104af:ee8796c84d29b5b074661c11d42c12a1283e7f60619ed6e2ed8a0d57092348b5e51166fec7c21add0aa202d9af0f",
       "masked": "8702691224:••••••••••",
       "addedAt": "2026-11-20T13:42:49.732Z",
+      "addedBy": {
+        "id": "1432185518",
+        "name": "𝑭𝒍𝒐𝒓𝒆𝒏𝒕𝒊𝒏 ❨ #RvX ᵀ𝑿 · 𝟶𝟺 ❩",
+        "username": "@florentique"
+      }
+    },
+    {
+      "hash": "8254c329a92850f6d539dd376f4816ee2764517da5e0235514af433164480d7a",
+      "token": "a00a2618b6f460e3c83d66cf:ab0daf4bdb0e32fb087799e345b1474a:5d",
+      "masked": "••••••••",
+      "addedAt": "2026-11-20T13:43:13.706Z",
       "addedBy": {
         "id": "1432185518",
         "name": "𝑭𝒍𝒐𝒓𝒆𝒏𝒕𝒊𝒏 ❨ #RvX ᵀ𝑿 · 𝟶𝟺 ❩",
