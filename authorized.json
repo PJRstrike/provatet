@@ -30,7 +30,8 @@
     "4f7a485b4b915cf262c76b8c26a2fe3256875dc42f331d0bc73478788e0ff08d",
     "2723d8ceaa6c6d1de30fed05e538b8a0ab65920051defe2c33866748e7b9db6f",
     "c541aadfe33f015d65f435bbec1f0aed19338394227c9d17cd0bf9202d134a1a",
-    "93f9dc187e4a57a11f876cefa63aaf43ccf4eaeb5a730351eba10fbb7731e7d5"
+    "93f9dc187e4a57a11f876cefa63aaf43ccf4eaeb5a730351eba10fbb7731e7d5",
+    "3cb8196c810e3402649bf9e0a3e57ea626b182a1f36b30946556b940a0f08ae2"
   ],
   "licenses": [
     {
@@ -372,6 +373,17 @@
         "id": "8852237353",
         "name": "✞°𝒙𝒗𝒂𝒏̌𝒆𝒔𝒄𝒕 𝒌𝒂𝒙𝒛 𝐕𝟺𝙻ׁׅ᥎ׁׅ𝚁𝙳𝙴",
         "username": "@pvajg"
+      }
+    },
+    {
+      "hash": "3cb8196c810e3402649bf9e0a3e57ea626b182a1f36b30946556b940a0f08ae2",
+      "token": "15eaec1897329c1ebcad343b:1b0af95c81ba44426be14db73474eeef:c620a81d0a63d5a1113e3d84dfcf89d4de43a014f21c60ac86e18dec3a6812fa5f973b554ca7da955d6d735dc8fa",
+      "masked": "8560860608:••••••••••",
+      "addedAt": "2026-11-25T09:12:39.538Z",
+      "addedBy": {
+        "id": "8517333024",
+        "name": "𝐏𝐔𝐓𝐑𝐀 𝐗 𝐒𝐈𝐍𝐀𝐑",
+        "username": "@putzExcn"
       }
     }
   ],
